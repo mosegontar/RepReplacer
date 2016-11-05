@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+
+    "name": "blindrep",
+    "version": "1.0",
+
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["jquery-3.1.1.min.js", "content.js"]
+        }
+    ],
+    
+    "permissions": [
+        "http://*/"
+    ],
+
+    "web_accessible_resources": [
+        "congress.json"
+    ]
+}

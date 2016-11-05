@@ -1,0 +1,4747 @@
+{
+  "Castor": [
+    {
+      "chamber": "house",
+      "first_name": "Kathy",
+      "last_name": "Castor",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Deutch": [
+    {
+      "chamber": "house",
+      "first_name": "Ted",
+      "last_name": "Deutch",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Shelby": [
+    {
+      "chamber": "senate",
+      "first_name": "Richard",
+      "last_name": "Shelby",
+      "state": "Alabama",
+      "title": "Sen"
+    }
+  ],
+  "Frankel": [
+    {
+      "chamber": "house",
+      "first_name": "Lois",
+      "last_name": "Frankel",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Franken": [
+    {
+      "chamber": "senate",
+      "first_name": "Alan",
+      "last_name": "Franken",
+      "state": "Minnesota",
+      "title": "Sen"
+    }
+  ],
+  "Nadler": [
+    {
+      "chamber": "house",
+      "first_name": "Jerrold",
+      "last_name": "Nadler",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Hinojosa": [
+    {
+      "chamber": "house",
+      "first_name": "Rubén",
+      "last_name": "Hinojosa",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "McSally": [
+    {
+      "chamber": "house",
+      "first_name": "Martha",
+      "last_name": "McSally",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Larsen": [
+    {
+      "chamber": "house",
+      "first_name": "Rick",
+      "last_name": "Larsen",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Shuster": [
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Shuster",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Burgess": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Burgess",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Coleman": [
+    {
+      "chamber": "house",
+      "first_name": "Bonnie",
+      "last_name": "Watson Coleman",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Coons": [
+    {
+      "chamber": "senate",
+      "first_name": "Chris",
+      "last_name": "Coons",
+      "state": "Delaware",
+      "title": "Sen"
+    }
+  ],
+  "Boyle": [
+    {
+      "chamber": "house",
+      "first_name": "Brendan",
+      "last_name": "Boyle",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Brown": [
+    {
+      "chamber": "house",
+      "first_name": "Corrine",
+      "last_name": "Brown",
+      "state": "Florida",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Sherrod",
+      "last_name": "Brown",
+      "state": "Ohio",
+      "title": "Sen"
+    }
+  ],
+  "Honda": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Honda",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Rangel": [
+    {
+      "chamber": "house",
+      "first_name": "Charles",
+      "last_name": "Rangel",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Payne": [
+    {
+      "chamber": "house",
+      "first_name": "Donald",
+      "last_name": "Payne",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Harper": [
+    {
+      "chamber": "house",
+      "first_name": "Gregg",
+      "last_name": "Harper",
+      "state": "Mississippi",
+      "title": "Rep"
+    }
+  ],
+  "Sewell": [
+    {
+      "chamber": "house",
+      "first_name": "Terri",
+      "last_name": "Sewell",
+      "state": "Alabama",
+      "title": "Rep"
+    }
+  ],
+  "Pingree": [
+    {
+      "chamber": "house",
+      "first_name": "Chellie",
+      "last_name": "Pingree",
+      "state": "Maine",
+      "title": "Rep"
+    }
+  ],
+  "Burr": [
+    {
+      "chamber": "senate",
+      "first_name": "Richard",
+      "last_name": "Burr",
+      "state": "North Carolina",
+      "title": "Sen"
+    }
+  ],
+  "Kaptur": [
+    {
+      "chamber": "house",
+      "first_name": "Marcy",
+      "last_name": "Kaptur",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Trott": [
+    {
+      "chamber": "house",
+      "first_name": "Dave",
+      "last_name": "Trott",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Higgins": [
+    {
+      "chamber": "house",
+      "first_name": "Brian",
+      "last_name": "Higgins",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Titus": [
+    {
+      "chamber": "house",
+      "first_name": "Dina",
+      "last_name": "Titus",
+      "state": "Nevada",
+      "title": "Rep"
+    }
+  ],
+  "Loebsack": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Loebsack",
+      "state": "Iowa",
+      "title": "Rep"
+    }
+  ],
+  "Sinema": [
+    {
+      "chamber": "house",
+      "first_name": "Kyrsten",
+      "last_name": "Sinema",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Vitter": [
+    {
+      "chamber": "senate",
+      "first_name": "David",
+      "last_name": "Vitter",
+      "state": "Louisiana",
+      "title": "Sen"
+    }
+  ],
+  "Capito": [
+    {
+      "chamber": "senate",
+      "first_name": "Shelley",
+      "last_name": "Capito",
+      "state": "West Virginia",
+      "title": "Sen"
+    }
+  ],
+  "Swalwell": [
+    {
+      "chamber": "house",
+      "first_name": "Eric",
+      "last_name": "Swalwell",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Sánchez": [
+    {
+      "chamber": "house",
+      "first_name": "Linda",
+      "last_name": "Sánchez",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Enzi": [
+    {
+      "chamber": "senate",
+      "first_name": "Michael",
+      "last_name": "Enzi",
+      "state": "Wyoming",
+      "title": "Sen"
+    }
+  ],
+  "Kline": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Kline",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Pitts": [
+    {
+      "chamber": "house",
+      "first_name": "Joseph",
+      "last_name": "Pitts",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "McCarthy": [
+    {
+      "chamber": "house",
+      "first_name": "Kevin",
+      "last_name": "McCarthy",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Quigley": [
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Quigley",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Carper": [
+    {
+      "chamber": "senate",
+      "first_name": "Thomas",
+      "last_name": "Carper",
+      "state": "Delaware",
+      "title": "Sen"
+    }
+  ],
+  "Paul": [
+    {
+      "chamber": "senate",
+      "first_name": "Rand",
+      "last_name": "Paul",
+      "state": "Kentucky",
+      "title": "Sen"
+    }
+  ],
+  "Griffith": [
+    {
+      "chamber": "house",
+      "first_name": "H.",
+      "last_name": "Griffith",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Bilirakis": [
+    {
+      "chamber": "house",
+      "first_name": "Gus",
+      "last_name": "Bilirakis",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Roby": [
+    {
+      "chamber": "house",
+      "first_name": "Martha",
+      "last_name": "Roby",
+      "state": "Alabama",
+      "title": "Rep"
+    }
+  ],
+  "Toomey": [
+    {
+      "chamber": "senate",
+      "first_name": "Patrick",
+      "last_name": "Toomey",
+      "state": "Pennsylvania",
+      "title": "Sen"
+    }
+  ],
+  "Long": [
+    {
+      "chamber": "house",
+      "first_name": "Billy",
+      "last_name": "Long",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Messer": [
+    {
+      "chamber": "house",
+      "first_name": "Luke",
+      "last_name": "Messer",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Palazzo": [
+    {
+      "chamber": "house",
+      "first_name": "Steven",
+      "last_name": "Palazzo",
+      "state": "Mississippi",
+      "title": "Rep"
+    }
+  ],
+  "Collins": [
+    {
+      "chamber": "house",
+      "first_name": "Chris",
+      "last_name": "Collins",
+      "state": "New York",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Doug",
+      "last_name": "Collins",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Susan",
+      "last_name": "Collins",
+      "state": "Maine",
+      "title": "Sen"
+    }
+  ],
+  "Rice": [
+    {
+      "chamber": "house",
+      "first_name": "Kathleen",
+      "last_name": "Rice",
+      "state": "New York",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Rice",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Jeffries": [
+    {
+      "chamber": "house",
+      "first_name": "Hakeem",
+      "last_name": "Jeffries",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Sires": [
+    {
+      "chamber": "house",
+      "first_name": "Albio",
+      "last_name": "Sires",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Sherman": [
+    {
+      "chamber": "house",
+      "first_name": "Brad",
+      "last_name": "Sherman",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Cruz": [
+    {
+      "chamber": "senate",
+      "first_name": "Ted",
+      "last_name": "Cruz",
+      "state": "Texas",
+      "title": "Sen"
+    }
+  ],
+  "Reed": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Reed",
+      "state": "New York",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Reed",
+      "state": "Rhode Island",
+      "title": "Sen"
+    }
+  ],
+  "Mica": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Mica",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "McClintock": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "McClintock",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "LoBiondo": [
+    {
+      "chamber": "house",
+      "first_name": "Frank",
+      "last_name": "LoBiondo",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Rush": [
+    {
+      "chamber": "house",
+      "first_name": "Bobby",
+      "last_name": "Rush",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Sensenbrenner": [
+    {
+      "chamber": "house",
+      "first_name": "F.",
+      "last_name": "Sensenbrenner",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Barton": [
+    {
+      "chamber": "house",
+      "first_name": "Joe",
+      "last_name": "Barton",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Newhouse": [
+    {
+      "chamber": "house",
+      "first_name": "Dan",
+      "last_name": "Newhouse",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Hensarling": [
+    {
+      "chamber": "house",
+      "first_name": "Jeb",
+      "last_name": "Hensarling",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Green": [
+    {
+      "chamber": "house",
+      "first_name": "Gene",
+      "last_name": "Green",
+      "state": "Texas",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Al",
+      "last_name": "Green",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Flake": [
+    {
+      "chamber": "senate",
+      "first_name": "Jeff",
+      "last_name": "Flake",
+      "state": "Arizona",
+      "title": "Sen"
+    }
+  ],
+  "Clay": [
+    {
+      "chamber": "house",
+      "first_name": "Wm.",
+      "last_name": "Clay",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Gibson": [
+    {
+      "chamber": "house",
+      "first_name": "Christopher",
+      "last_name": "Gibson",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Warner": [
+    {
+      "chamber": "senate",
+      "first_name": "Mark",
+      "last_name": "Warner",
+      "state": "Virginia",
+      "title": "Sen"
+    }
+  ],
+  "Whitehouse": [
+    {
+      "chamber": "senate",
+      "first_name": "Sheldon",
+      "last_name": "Whitehouse",
+      "state": "Rhode Island",
+      "title": "Sen"
+    }
+  ],
+  "Fischer": [
+    {
+      "chamber": "senate",
+      "first_name": "Deb",
+      "last_name": "Fischer",
+      "state": "Nebraska",
+      "title": "Sen"
+    }
+  ],
+  "Clark": [
+    {
+      "chamber": "house",
+      "first_name": "Katherine",
+      "last_name": "Clark",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Sablan": [
+    {
+      "chamber": "house",
+      "first_name": "Gregorio",
+      "last_name": "Sablan",
+      "state": "Northern Mariana Islands",
+      "title": "Del"
+    }
+  ],
+  "Dold": [
+    {
+      "chamber": "house",
+      "first_name": "Bob",
+      "last_name": "Dold",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Hardy": [
+    {
+      "chamber": "house",
+      "first_name": "Cresent",
+      "last_name": "Hardy",
+      "state": "Nevada",
+      "title": "Rep"
+    }
+  ],
+  "Luetkemeyer": [
+    {
+      "chamber": "house",
+      "first_name": "Blaine",
+      "last_name": "Luetkemeyer",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Pascrell": [
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Pascrell",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Grayson": [
+    {
+      "chamber": "house",
+      "first_name": "Alan",
+      "last_name": "Grayson",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Baldwin": [
+    {
+      "chamber": "senate",
+      "first_name": "Tammy",
+      "last_name": "Baldwin",
+      "state": "Wisconsin",
+      "title": "Sen"
+    }
+  ],
+  "Poliquin": [
+    {
+      "chamber": "house",
+      "first_name": "Bruce",
+      "last_name": "Poliquin",
+      "state": "Maine",
+      "title": "Rep"
+    }
+  ],
+  "DeFazio": [
+    {
+      "chamber": "house",
+      "first_name": "Peter",
+      "last_name": "DeFazio",
+      "state": "Oregon",
+      "title": "Rep"
+    }
+  ],
+  "Mullin": [
+    {
+      "chamber": "house",
+      "first_name": "Markwayne",
+      "last_name": "Mullin",
+      "state": "Oklahoma",
+      "title": "Rep"
+    }
+  ],
+  "Clarke": [
+    {
+      "chamber": "house",
+      "first_name": "Yvette",
+      "last_name": "Clarke",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Farenthold": [
+    {
+      "chamber": "house",
+      "first_name": "Blake",
+      "last_name": "Farenthold",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Richmond": [
+    {
+      "chamber": "house",
+      "first_name": "Cedric",
+      "last_name": "Richmond",
+      "state": "Louisiana",
+      "title": "Rep"
+    }
+  ],
+  "Kirk": [
+    {
+      "chamber": "senate",
+      "first_name": "Mark",
+      "last_name": "Kirk",
+      "state": "Illinois",
+      "title": "Sen"
+    }
+  ],
+  "Kilmer": [
+    {
+      "chamber": "house",
+      "first_name": "Derek",
+      "last_name": "Kilmer",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Fleischmann": [
+    {
+      "chamber": "house",
+      "first_name": "Charles",
+      "last_name": "Fleischmann",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Weber": [
+    {
+      "chamber": "house",
+      "first_name": "Randy",
+      "last_name": "Weber",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Clawson": [
+    {
+      "chamber": "house",
+      "first_name": "Curtis",
+      "last_name": "Clawson",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Sanders": [
+    {
+      "chamber": "senate",
+      "first_name": "Bernie",
+      "last_name": "Sanders",
+      "state": "Vermont",
+      "title": "Sen"
+    }
+  ],
+  "Walorski": [
+    {
+      "chamber": "house",
+      "first_name": "Jackie",
+      "last_name": "Walorski",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Sasse": [
+    {
+      "chamber": "senate",
+      "first_name": "Benjamin",
+      "last_name": "Sasse",
+      "state": "Nebraska",
+      "title": "Sen"
+    }
+  ],
+  "Coffman": [
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Coffman",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "Guthrie": [
+    {
+      "chamber": "house",
+      "first_name": "Brett",
+      "last_name": "Guthrie",
+      "state": "Kentucky",
+      "title": "Rep"
+    }
+  ],
+  "McCollum": [
+    {
+      "chamber": "house",
+      "first_name": "Betty",
+      "last_name": "McCollum",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Beatty": [
+    {
+      "chamber": "house",
+      "first_name": "Joyce",
+      "last_name": "Beatty",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Stabenow": [
+    {
+      "chamber": "senate",
+      "first_name": "Debbie",
+      "last_name": "Stabenow",
+      "state": "Michigan",
+      "title": "Sen"
+    }
+  ],
+  "Lipinski": [
+    {
+      "chamber": "house",
+      "first_name": "Daniel",
+      "last_name": "Lipinski",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Brat": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Brat",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Norcross": [
+    {
+      "chamber": "house",
+      "first_name": "Donald",
+      "last_name": "Norcross",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Crowley": [
+    {
+      "chamber": "house",
+      "first_name": "Joseph",
+      "last_name": "Crowley",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Luján": [
+    {
+      "chamber": "house",
+      "first_name": "Ben",
+      "last_name": "Luján",
+      "state": "New Mexico",
+      "title": "Rep"
+    }
+  ],
+  "Cicilline": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Cicilline",
+      "state": "Rhode Island",
+      "title": "Rep"
+    }
+  ],
+  "Butterfield": [
+    {
+      "chamber": "house",
+      "first_name": "George",
+      "last_name": "Butterfield",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Gillibrand": [
+    {
+      "chamber": "senate",
+      "first_name": "Kirsten",
+      "last_name": "Gillibrand",
+      "state": "New York",
+      "title": "Sen"
+    }
+  ],
+  "Lieu": [
+    {
+      "chamber": "house",
+      "first_name": "Ted",
+      "last_name": "Lieu",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "McNerney": [
+    {
+      "chamber": "house",
+      "first_name": "Jerry",
+      "last_name": "McNerney",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Gutiérrez": [
+    {
+      "chamber": "house",
+      "first_name": "Luis",
+      "last_name": "Gutiérrez",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Huelskamp": [
+    {
+      "chamber": "house",
+      "first_name": "Tim",
+      "last_name": "Huelskamp",
+      "state": "Kansas",
+      "title": "Rep"
+    }
+  ],
+  "Crapo": [
+    {
+      "chamber": "senate",
+      "first_name": "Michael",
+      "last_name": "Crapo",
+      "state": "Idaho",
+      "title": "Sen"
+    }
+  ],
+  "Pierluisi": [
+    {
+      "chamber": "house",
+      "first_name": "Pedro",
+      "last_name": "Pierluisi",
+      "state": "Puerto Rico",
+      "title": "Com"
+    }
+  ],
+  "Thompson": [
+    {
+      "chamber": "house",
+      "first_name": "Glenn",
+      "last_name": "Thompson",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Thompson",
+      "state": "California",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Bennie",
+      "last_name": "Thompson",
+      "state": "Mississippi",
+      "title": "Rep"
+    }
+  ],
+  "Forbes": [
+    {
+      "chamber": "house",
+      "first_name": "J.",
+      "last_name": "Forbes",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Holding": [
+    {
+      "chamber": "house",
+      "first_name": "George",
+      "last_name": "Holding",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Polis": [
+    {
+      "chamber": "house",
+      "first_name": "Jared",
+      "last_name": "Polis",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "Culberson": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Culberson",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Eshoo": [
+    {
+      "chamber": "house",
+      "first_name": "Anna",
+      "last_name": "Eshoo",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Grassley": [
+    {
+      "chamber": "senate",
+      "first_name": "Charles",
+      "last_name": "Grassley",
+      "state": "Iowa",
+      "title": "Sen"
+    }
+  ],
+  "Casey": [
+    {
+      "chamber": "senate",
+      "first_name": "Robert",
+      "last_name": "Casey",
+      "state": "Pennsylvania",
+      "title": "Sen"
+    }
+  ],
+  "O'Rourke": [
+    {
+      "chamber": "house",
+      "first_name": "Beto",
+      "last_name": "O'Rourke",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Blumenthal": [
+    {
+      "chamber": "senate",
+      "first_name": "Richard",
+      "last_name": "Blumenthal",
+      "state": "Connecticut",
+      "title": "Sen"
+    }
+  ],
+  "Jordan": [
+    {
+      "chamber": "house",
+      "first_name": "Jim",
+      "last_name": "Jordan",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Tillis": [
+    {
+      "chamber": "senate",
+      "first_name": "Thom",
+      "last_name": "Tillis",
+      "state": "North Carolina",
+      "title": "Sen"
+    }
+  ],
+  "Amata": [
+    {
+      "chamber": "house",
+      "first_name": "Aumua",
+      "last_name": "Amata",
+      "state": "American Samoa",
+      "title": "Del"
+    }
+  ],
+  "Hoeven": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Hoeven",
+      "state": "North Dakota",
+      "title": "Sen"
+    }
+  ],
+  "Lucas": [
+    {
+      "chamber": "house",
+      "first_name": "Frank",
+      "last_name": "Lucas",
+      "state": "Oklahoma",
+      "title": "Rep"
+    }
+  ],
+  "Lowey": [
+    {
+      "chamber": "house",
+      "first_name": "Nita",
+      "last_name": "Lowey",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Fitzpatrick": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Fitzpatrick",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Israel": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Israel",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Ryan": [
+    {
+      "chamber": "house",
+      "first_name": "Tim",
+      "last_name": "Ryan",
+      "state": "Ohio",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Paul",
+      "last_name": "Ryan",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Connolly": [
+    {
+      "chamber": "house",
+      "first_name": "Gerald",
+      "last_name": "Connolly",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "DeSantis": [
+    {
+      "chamber": "house",
+      "first_name": "Ron",
+      "last_name": "DeSantis",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Perdue": [
+    {
+      "chamber": "senate",
+      "first_name": "David",
+      "last_name": "Perdue",
+      "state": "Georgia",
+      "title": "Sen"
+    }
+  ],
+  "Kelly": [
+    {
+      "chamber": "house",
+      "first_name": "Trent",
+      "last_name": "Kelly",
+      "state": "Mississippi",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Robin",
+      "last_name": "Kelly",
+      "state": "Illinois",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Kelly",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Bridenstine": [
+    {
+      "chamber": "house",
+      "first_name": "Jim",
+      "last_name": "Bridenstine",
+      "state": "Oklahoma",
+      "title": "Rep"
+    }
+  ],
+  "Barletta": [
+    {
+      "chamber": "house",
+      "first_name": "Lou",
+      "last_name": "Barletta",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Yoho": [
+    {
+      "chamber": "house",
+      "first_name": "Ted",
+      "last_name": "Yoho",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Klobuchar": [
+    {
+      "chamber": "senate",
+      "first_name": "Amy",
+      "last_name": "Klobuchar",
+      "state": "Minnesota",
+      "title": "Sen"
+    }
+  ],
+  "Noem": [
+    {
+      "chamber": "house",
+      "first_name": "Kristi",
+      "last_name": "Noem",
+      "state": "South Dakota",
+      "title": "Rep"
+    }
+  ],
+  "Cardin": [
+    {
+      "chamber": "senate",
+      "first_name": "Benjamin",
+      "last_name": "Cardin",
+      "state": "Maryland",
+      "title": "Sen"
+    }
+  ],
+  "Visclosky": [
+    {
+      "chamber": "house",
+      "first_name": "Peter",
+      "last_name": "Visclosky",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Huffman": [
+    {
+      "chamber": "house",
+      "first_name": "Jared",
+      "last_name": "Huffman",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Boozman": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Boozman",
+      "state": "Arkansas",
+      "title": "Sen"
+    }
+  ],
+  "Wilson": [
+    {
+      "chamber": "house",
+      "first_name": "Frederica",
+      "last_name": "Wilson",
+      "state": "Florida",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Joe",
+      "last_name": "Wilson",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Kildee": [
+    {
+      "chamber": "house",
+      "first_name": "Daniel",
+      "last_name": "Kildee",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Upton": [
+    {
+      "chamber": "house",
+      "first_name": "Fred",
+      "last_name": "Upton",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Blum": [
+    {
+      "chamber": "house",
+      "first_name": "Rod",
+      "last_name": "Blum",
+      "state": "Iowa",
+      "title": "Rep"
+    }
+  ],
+  "Smith": [
+    {
+      "chamber": "house",
+      "first_name": "Jason",
+      "last_name": "Smith",
+      "state": "Missouri",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Lamar",
+      "last_name": "Smith",
+      "state": "Texas",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Christopher",
+      "last_name": "Smith",
+      "state": "New Jersey",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Adrian",
+      "last_name": "Smith",
+      "state": "Nebraska",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Adam",
+      "last_name": "Smith",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Rigell": [
+    {
+      "chamber": "house",
+      "first_name": "Edward",
+      "last_name": "Rigell",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Wittman": [
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Wittman",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Ayotte": [
+    {
+      "chamber": "senate",
+      "first_name": "Kelly",
+      "last_name": "Ayotte",
+      "state": "New Hampshire",
+      "title": "Sen"
+    }
+  ],
+  "Gardner": [
+    {
+      "chamber": "senate",
+      "first_name": "Cory",
+      "last_name": "Gardner",
+      "state": "Colorado",
+      "title": "Sen"
+    }
+  ],
+  "Olson": [
+    {
+      "chamber": "house",
+      "first_name": "Pete",
+      "last_name": "Olson",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "warren": [],
+  "Veasey": [
+    {
+      "chamber": "house",
+      "first_name": "Marc",
+      "last_name": "Veasey",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Brooks": [
+    {
+      "chamber": "house",
+      "first_name": "Susan",
+      "last_name": "Brooks",
+      "state": "Indiana",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Mo",
+      "last_name": "Brooks",
+      "state": "Alabama",
+      "title": "Rep"
+    }
+  ],
+  "Curbelo": [
+    {
+      "chamber": "house",
+      "first_name": "Carlos",
+      "last_name": "Curbelo",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Harris": [
+    {
+      "chamber": "house",
+      "first_name": "Andy",
+      "last_name": "Harris",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Doyle": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Doyle",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Yoder": [
+    {
+      "chamber": "house",
+      "first_name": "Kevin",
+      "last_name": "Yoder",
+      "state": "Kansas",
+      "title": "Rep"
+    }
+  ],
+  "Buck": [
+    {
+      "chamber": "house",
+      "first_name": "Ken",
+      "last_name": "Buck",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "Rogers": [
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Rogers",
+      "state": "Alabama",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Harold",
+      "last_name": "Rogers",
+      "state": "Kentucky",
+      "title": "Rep"
+    }
+  ],
+  "Lummis": [
+    {
+      "chamber": "house",
+      "first_name": "Cynthia",
+      "last_name": "Lummis",
+      "state": "Wyoming",
+      "title": "Rep"
+    }
+  ],
+  "Bennet": [
+    {
+      "chamber": "senate",
+      "first_name": "Michael",
+      "last_name": "Bennet",
+      "state": "Colorado",
+      "title": "Sen"
+    }
+  ],
+  "Risch": [
+    {
+      "chamber": "senate",
+      "first_name": "James",
+      "last_name": "Risch",
+      "state": "Idaho",
+      "title": "Sen"
+    }
+  ],
+  "Webster": [
+    {
+      "chamber": "house",
+      "first_name": "Daniel",
+      "last_name": "Webster",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Merkley": [
+    {
+      "chamber": "senate",
+      "first_name": "Jeff",
+      "last_name": "Merkley",
+      "state": "Oregon",
+      "title": "Sen"
+    }
+  ],
+  "LaHood": [
+    {
+      "chamber": "house",
+      "first_name": "Darin",
+      "last_name": "LaHood",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Hollen": [
+    {
+      "chamber": "house",
+      "first_name": "Chris",
+      "last_name": "Van Hollen",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Wagner": [
+    {
+      "chamber": "house",
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Rodgers": [
+    {
+      "chamber": "house",
+      "first_name": "Cathy",
+      "last_name": "McMorris Rodgers",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Walden": [
+    {
+      "chamber": "house",
+      "first_name": "Greg",
+      "last_name": "Walden",
+      "state": "Oregon",
+      "title": "Rep"
+    }
+  ],
+  "Ruppersberger": [
+    {
+      "chamber": "house",
+      "first_name": "C.",
+      "last_name": "Ruppersberger",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Pocan": [
+    {
+      "chamber": "house",
+      "first_name": "Mark",
+      "last_name": "Pocan",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Larson": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Larson",
+      "state": "Connecticut",
+      "title": "Rep"
+    }
+  ],
+  "Duncan": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Duncan",
+      "state": "Tennessee",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Jeff",
+      "last_name": "Duncan",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Stutzman": [
+    {
+      "chamber": "house",
+      "first_name": "Marlin",
+      "last_name": "Stutzman",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Hartzler": [
+    {
+      "chamber": "house",
+      "first_name": "Vicky",
+      "last_name": "Hartzler",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Loudermilk": [
+    {
+      "chamber": "house",
+      "first_name": "Barry",
+      "last_name": "Loudermilk",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Hatch": [
+    {
+      "chamber": "senate",
+      "first_name": "Orrin",
+      "last_name": "Hatch",
+      "state": "Utah",
+      "title": "Sen"
+    }
+  ],
+  "Ross": [
+    {
+      "chamber": "house",
+      "first_name": "Dennis",
+      "last_name": "Ross",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Amodei": [
+    {
+      "chamber": "house",
+      "first_name": "Mark",
+      "last_name": "Amodei",
+      "state": "Nevada",
+      "title": "Rep"
+    }
+  ],
+  "Hurt": [
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Hurt",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Aderholt": [
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Aderholt",
+      "state": "Alabama",
+      "title": "Rep"
+    }
+  ],
+  "Cook": [
+    {
+      "chamber": "house",
+      "first_name": "Paul",
+      "last_name": "Cook",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Hurd": [
+    {
+      "chamber": "house",
+      "first_name": "Will",
+      "last_name": "Hurd",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Rothfus": [
+    {
+      "chamber": "house",
+      "first_name": "Keith",
+      "last_name": "Rothfus",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Castro": [
+    {
+      "chamber": "house",
+      "first_name": "Joaquin",
+      "last_name": "Castro",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Grijalva": [
+    {
+      "chamber": "house",
+      "first_name": "Raúl",
+      "last_name": "Grijalva",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Schatz": [
+    {
+      "chamber": "senate",
+      "first_name": "Brian",
+      "last_name": "Schatz",
+      "state": "Hawaii",
+      "title": "Sen"
+    }
+  ],
+  "Bucshon": [
+    {
+      "chamber": "house",
+      "first_name": "Larry",
+      "last_name": "Bucshon",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Stefanik": [
+    {
+      "chamber": "house",
+      "first_name": "Elise",
+      "last_name": "Stefanik",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Rokita": [
+    {
+      "chamber": "house",
+      "first_name": "Todd",
+      "last_name": "Rokita",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Hice": [
+    {
+      "chamber": "house",
+      "first_name": "Jody",
+      "last_name": "Hice",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Mooney": [
+    {
+      "chamber": "house",
+      "first_name": "Alex",
+      "last_name": "Mooney",
+      "state": "West Virginia",
+      "title": "Rep"
+    }
+  ],
+  "McKinley": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "McKinley",
+      "state": "West Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Calvert": [
+    {
+      "chamber": "house",
+      "first_name": "Ken",
+      "last_name": "Calvert",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Sanford": [
+    {
+      "chamber": "house",
+      "first_name": "Marshall",
+      "last_name": "Sanford",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Cooper": [
+    {
+      "chamber": "house",
+      "first_name": "Jim",
+      "last_name": "Cooper",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Black": [
+    {
+      "chamber": "house",
+      "first_name": "Diane",
+      "last_name": "Black",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Plaskett": [
+    {
+      "chamber": "house",
+      "first_name": "Stacey",
+      "last_name": "Plaskett",
+      "state": "US Virgin Islands",
+      "title": "Del"
+    }
+  ],
+  "Takano": [
+    {
+      "chamber": "house",
+      "first_name": "Mark",
+      "last_name": "Takano",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Cárdenas": [
+    {
+      "chamber": "house",
+      "first_name": "Tony",
+      "last_name": "Cárdenas",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Portman": [
+    {
+      "chamber": "senate",
+      "first_name": "Robert",
+      "last_name": "Portman",
+      "state": "Ohio",
+      "title": "Sen"
+    }
+  ],
+  "Menéndez": [
+    {
+      "chamber": "senate",
+      "first_name": "Robert",
+      "last_name": "Menéndez",
+      "state": "New Jersey",
+      "title": "Sen"
+    }
+  ],
+  "Byrne": [
+    {
+      "chamber": "house",
+      "first_name": "Bradley",
+      "last_name": "Byrne",
+      "state": "Alabama",
+      "title": "Rep"
+    }
+  ],
+  "Palmer": [
+    {
+      "chamber": "house",
+      "first_name": "Gary",
+      "last_name": "Palmer",
+      "state": "Alabama",
+      "title": "Rep"
+    }
+  ],
+  "Posey": [
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Posey",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Cummings": [
+    {
+      "chamber": "house",
+      "first_name": "Elijah",
+      "last_name": "Cummings",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Farr": [
+    {
+      "chamber": "house",
+      "first_name": "Sam",
+      "last_name": "Farr",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Emmer": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Emmer",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Pelosi": [
+    {
+      "chamber": "house",
+      "first_name": "Nancy",
+      "last_name": "Pelosi",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Alexander": [
+    {
+      "chamber": "senate",
+      "first_name": "Lamar",
+      "last_name": "Alexander",
+      "state": "Tennessee",
+      "title": "Sen"
+    }
+  ],
+  "Levin": [
+    {
+      "chamber": "house",
+      "first_name": "Sander",
+      "last_name": "Levin",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Katko": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Katko",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Walberg": [
+    {
+      "chamber": "house",
+      "first_name": "Tim",
+      "last_name": "Walberg",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Hastings": [
+    {
+      "chamber": "house",
+      "first_name": "Alcee",
+      "last_name": "Hastings",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Carney": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Carney",
+      "state": "Delaware",
+      "title": "Rep"
+    }
+  ],
+  "Manchin": [
+    {
+      "chamber": "senate",
+      "first_name": "Joe",
+      "last_name": "Manchin",
+      "state": "West Virginia",
+      "title": "Sen"
+    }
+  ],
+  "Love": [
+    {
+      "chamber": "house",
+      "first_name": "Mia",
+      "last_name": "Love",
+      "state": "Utah",
+      "title": "Rep"
+    }
+  ],
+  "Vargas": [
+    {
+      "chamber": "house",
+      "first_name": "Juan",
+      "last_name": "Vargas",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Perlmutter": [
+    {
+      "chamber": "house",
+      "first_name": "Ed",
+      "last_name": "Perlmutter",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "DesJarlais": [
+    {
+      "chamber": "house",
+      "first_name": "Scott",
+      "last_name": "DesJarlais",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Ellison": [
+    {
+      "chamber": "house",
+      "first_name": "Keith",
+      "last_name": "Ellison",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Daines": [
+    {
+      "chamber": "senate",
+      "first_name": "Steve",
+      "last_name": "Daines",
+      "state": "Montana",
+      "title": "Sen"
+    }
+  ],
+  "Babin": [
+    {
+      "chamber": "house",
+      "first_name": "Brian",
+      "last_name": "Babin",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "McDermott": [
+    {
+      "chamber": "house",
+      "first_name": "Jim",
+      "last_name": "McDermott",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Peterson": [
+    {
+      "chamber": "house",
+      "first_name": "Collin",
+      "last_name": "Peterson",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Amash": [
+    {
+      "chamber": "house",
+      "first_name": "Justin",
+      "last_name": "Amash",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Maloney": [
+    {
+      "chamber": "house",
+      "first_name": "Sean",
+      "last_name": "Maloney",
+      "state": "New York",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Carolyn",
+      "last_name": "Maloney",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Boustany": [
+    {
+      "chamber": "house",
+      "first_name": "Charles",
+      "last_name": "Boustany",
+      "state": "Louisiana",
+      "title": "Rep"
+    }
+  ],
+  "Denham": [
+    {
+      "chamber": "house",
+      "first_name": "Jeff",
+      "last_name": "Denham",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Capps": [
+    {
+      "chamber": "house",
+      "first_name": "Lois",
+      "last_name": "Capps",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Moolenaar": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Moolenaar",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Velázquez": [
+    {
+      "chamber": "house",
+      "first_name": "Nydia",
+      "last_name": "Velázquez",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Crawford": [
+    {
+      "chamber": "house",
+      "first_name": "Eric",
+      "last_name": "Crawford",
+      "state": "Arkansas",
+      "title": "Rep"
+    }
+  ],
+  "Williams": [
+    {
+      "chamber": "house",
+      "first_name": "Roger",
+      "last_name": "Williams",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Mulvaney": [
+    {
+      "chamber": "house",
+      "first_name": "Mick",
+      "last_name": "Mulvaney",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Lance": [
+    {
+      "chamber": "house",
+      "first_name": "Leonard",
+      "last_name": "Lance",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "MacArthur": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "MacArthur",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Valadao": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Valadao",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Price": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Price",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Price",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Murphy": [
+    {
+      "chamber": "house",
+      "first_name": "Patrick",
+      "last_name": "Murphy",
+      "state": "Florida",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Tim",
+      "last_name": "Murphy",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Christopher",
+      "last_name": "Murphy",
+      "state": "Connecticut",
+      "title": "Sen"
+    }
+  ],
+  "Pallone": [
+    {
+      "chamber": "house",
+      "first_name": "Frank",
+      "last_name": "Pallone",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Slaughter": [
+    {
+      "chamber": "house",
+      "first_name": "Louise",
+      "last_name": "Slaughter",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Cochran": [
+    {
+      "chamber": "senate",
+      "first_name": "Thad",
+      "last_name": "Cochran",
+      "state": "Mississippi",
+      "title": "Sen"
+    }
+  ],
+  "Murkowski": [
+    {
+      "chamber": "senate",
+      "first_name": "Lisa",
+      "last_name": "Murkowski",
+      "state": "Alaska",
+      "title": "Sen"
+    }
+  ],
+  "Jones": [
+    {
+      "chamber": "house",
+      "first_name": "Walter",
+      "last_name": "Jones",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Knight": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Knight",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Inhofe": [
+    {
+      "chamber": "senate",
+      "first_name": "James",
+      "last_name": "Inhofe",
+      "state": "Oklahoma",
+      "title": "Sen"
+    }
+  ],
+  "Welch": [
+    {
+      "chamber": "house",
+      "first_name": "Peter",
+      "last_name": "Welch",
+      "state": "Vermont",
+      "title": "Rep"
+    }
+  ],
+  "Ernst": [
+    {
+      "chamber": "senate",
+      "first_name": "Joni",
+      "last_name": "Ernst",
+      "state": "Iowa",
+      "title": "Sen"
+    }
+  ],
+  "Abraham": [
+    {
+      "chamber": "house",
+      "first_name": "Ralph",
+      "last_name": "Abraham",
+      "state": "Louisiana",
+      "title": "Rep"
+    }
+  ],
+  "Guinta": [
+    {
+      "chamber": "house",
+      "first_name": "Frank",
+      "last_name": "Guinta",
+      "state": "New Hampshire",
+      "title": "Rep"
+    }
+  ],
+  "Lewis": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Lewis",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Bordallo": [
+    {
+      "chamber": "house",
+      "first_name": "Madeleine",
+      "last_name": "Bordallo",
+      "state": "Guam",
+      "title": "Del"
+    }
+  ],
+  "Vela": [
+    {
+      "chamber": "house",
+      "first_name": "Filemon",
+      "last_name": "Vela",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Lofgren": [
+    {
+      "chamber": "house",
+      "first_name": "Zoe",
+      "last_name": "Lofgren",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Joyce": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Joyce",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Poe": [
+    {
+      "chamber": "house",
+      "first_name": "Ted",
+      "last_name": "Poe",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Bishop": [
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Bishop",
+      "state": "Michigan",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Sanford",
+      "last_name": "Bishop",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Rob",
+      "last_name": "Bishop",
+      "state": "Utah",
+      "title": "Rep"
+    }
+  ],
+  "Langevin": [
+    {
+      "chamber": "house",
+      "first_name": "James",
+      "last_name": "Langevin",
+      "state": "Rhode Island",
+      "title": "Rep"
+    }
+  ],
+  "Roskam": [
+    {
+      "chamber": "house",
+      "first_name": "Peter",
+      "last_name": "Roskam",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Wyden": [
+    {
+      "chamber": "senate",
+      "first_name": "Ron",
+      "last_name": "Wyden",
+      "state": "Oregon",
+      "title": "Sen"
+    }
+  ],
+  "Hill": [
+    {
+      "chamber": "house",
+      "first_name": "French",
+      "last_name": "Hill",
+      "state": "Arkansas",
+      "title": "Rep"
+    }
+  ],
+  "Keating": [
+    {
+      "chamber": "house",
+      "first_name": "William",
+      "last_name": "Keating",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Rouzer": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Rouzer",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Feinstein": [
+    {
+      "chamber": "senate",
+      "first_name": "Dianne",
+      "last_name": "Feinstein",
+      "state": "California",
+      "title": "Sen"
+    }
+  ],
+  "Bass": [
+    {
+      "chamber": "house",
+      "first_name": "Karen",
+      "last_name": "Bass",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Roybal-Allard": [
+    {
+      "chamber": "house",
+      "first_name": "Lucille",
+      "last_name": "Roybal-Allard",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Grothman": [
+    {
+      "chamber": "house",
+      "first_name": "Glenn",
+      "last_name": "Grothman",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Flores": [
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Flores",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Bonamici": [
+    {
+      "chamber": "house",
+      "first_name": "Suzanne",
+      "last_name": "Bonamici",
+      "state": "Oregon",
+      "title": "Rep"
+    }
+  ],
+  "Conaway": [
+    {
+      "chamber": "house",
+      "first_name": "K.",
+      "last_name": "Conaway",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Granger": [
+    {
+      "chamber": "house",
+      "first_name": "Kay",
+      "last_name": "Granger",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Gabbard": [
+    {
+      "chamber": "house",
+      "first_name": "Tulsi",
+      "last_name": "Gabbard",
+      "state": "Hawaii",
+      "title": "Rep"
+    }
+  ],
+  "Bera": [
+    {
+      "chamber": "house",
+      "first_name": "Ami",
+      "last_name": "Bera",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Kaine": [
+    {
+      "chamber": "senate",
+      "first_name": "Timothy",
+      "last_name": "Kaine",
+      "state": "Virginia",
+      "title": "Sen"
+    }
+  ],
+  "Duffy": [
+    {
+      "chamber": "house",
+      "first_name": "Sean",
+      "last_name": "Duffy",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Issa": [
+    {
+      "chamber": "house",
+      "first_name": "Darrell",
+      "last_name": "Issa",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Matsui": [
+    {
+      "chamber": "house",
+      "first_name": "Doris",
+      "last_name": "Matsui",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Heck": [
+    {
+      "chamber": "house",
+      "first_name": "Denny",
+      "last_name": "Heck",
+      "state": "Washington",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Joseph",
+      "last_name": "Heck",
+      "state": "Nevada",
+      "title": "Rep"
+    }
+  ],
+  "Benishek": [
+    {
+      "chamber": "house",
+      "first_name": "Dan",
+      "last_name": "Benishek",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Beutler": [
+    {
+      "chamber": "house",
+      "first_name": "Jaime",
+      "last_name": "Herrera Beutler",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Moore": [
+    {
+      "chamber": "house",
+      "first_name": "Gwen",
+      "last_name": "Moore",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Sullivan": [
+    {
+      "chamber": "senate",
+      "first_name": "Dan",
+      "last_name": "Sullivan",
+      "state": "Alaska",
+      "title": "Sen"
+    }
+  ],
+  "Garamendi": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Garamendi",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Buchanan": [
+    {
+      "chamber": "house",
+      "first_name": "Vern",
+      "last_name": "Buchanan",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Gowdy": [
+    {
+      "chamber": "house",
+      "first_name": "Trey",
+      "last_name": "Gowdy",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Pearce": [
+    {
+      "chamber": "house",
+      "first_name": "Stevan",
+      "last_name": "Pearce",
+      "state": "New Mexico",
+      "title": "Rep"
+    }
+  ],
+  "Allen": [
+    {
+      "chamber": "house",
+      "first_name": "Rick",
+      "last_name": "Allen",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Chabot": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Chabot",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Chu": [
+    {
+      "chamber": "house",
+      "first_name": "Judy",
+      "last_name": "Chu",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Heller": [
+    {
+      "chamber": "senate",
+      "first_name": "Dean",
+      "last_name": "Heller",
+      "state": "Nevada",
+      "title": "Sen"
+    }
+  ],
+  "Graves": [
+    {
+      "chamber": "house",
+      "first_name": "Garret",
+      "last_name": "Graves",
+      "state": "Louisiana",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Graves",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Sam",
+      "last_name": "Graves",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Zinke": [
+    {
+      "chamber": "house",
+      "first_name": "Ryan",
+      "last_name": "Zinke",
+      "state": "Montana",
+      "title": "Rep"
+    }
+  ],
+  "Schumer": [
+    {
+      "chamber": "senate",
+      "first_name": "Charles",
+      "last_name": "Schumer",
+      "state": "New York",
+      "title": "Sen"
+    }
+  ],
+  "Foster": [
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Foster",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Becerra": [
+    {
+      "chamber": "house",
+      "first_name": "Xavier",
+      "last_name": "Becerra",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Gibbs": [
+    {
+      "chamber": "house",
+      "first_name": "Bob",
+      "last_name": "Gibbs",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Jenkins": [
+    {
+      "chamber": "house",
+      "first_name": "Evan",
+      "last_name": "Jenkins",
+      "state": "West Virginia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Lynn",
+      "last_name": "Jenkins",
+      "state": "Kansas",
+      "title": "Rep"
+    }
+  ],
+  "Ros-Lehtinen": [
+    {
+      "chamber": "house",
+      "first_name": "Ileana",
+      "last_name": "Ros-Lehtinen",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Shaheen": [
+    {
+      "chamber": "senate",
+      "first_name": "Jeanne",
+      "last_name": "Shaheen",
+      "state": "New Hampshire",
+      "title": "Sen"
+    }
+  ],
+  "Schrader": [
+    {
+      "chamber": "house",
+      "first_name": "Kurt",
+      "last_name": "Schrader",
+      "state": "Oregon",
+      "title": "Rep"
+    }
+  ],
+  "Himes": [
+    {
+      "chamber": "house",
+      "first_name": "James",
+      "last_name": "Himes",
+      "state": "Connecticut",
+      "title": "Rep"
+    }
+  ],
+  "Meeks": [
+    {
+      "chamber": "house",
+      "first_name": "Gregory",
+      "last_name": "Meeks",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "King": [
+    {
+      "chamber": "senate",
+      "first_name": "Angus",
+      "last_name": "King",
+      "state": "Maine",
+      "title": "Sen"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "King",
+      "state": "Iowa",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Peter",
+      "last_name": "King",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Kind": [
+    {
+      "chamber": "house",
+      "first_name": "Ron",
+      "last_name": "Kind",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Crenshaw": [
+    {
+      "chamber": "house",
+      "first_name": "Ander",
+      "last_name": "Crenshaw",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Johnson": [
+    {
+      "chamber": "house",
+      "first_name": "Sam",
+      "last_name": "Johnson",
+      "state": "Texas",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Ron",
+      "last_name": "Johnson",
+      "state": "Wisconsin",
+      "title": "Sen"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Henry",
+      "last_name": "Johnson",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Eddie",
+      "last_name": "Johnson",
+      "state": "Texas",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Johnson",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Blackburn": [
+    {
+      "chamber": "house",
+      "first_name": "Marsha",
+      "last_name": "Blackburn",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Serrano": [
+    {
+      "chamber": "house",
+      "first_name": "José",
+      "last_name": "Serrano",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Westmoreland": [
+    {
+      "chamber": "house",
+      "first_name": "Lynn",
+      "last_name": "Westmoreland",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Costello": [
+    {
+      "chamber": "house",
+      "first_name": "Ryan",
+      "last_name": "Costello",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Scalise": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Scalise",
+      "state": "Louisiana",
+      "title": "Rep"
+    }
+  ],
+  "Bustos": [
+    {
+      "chamber": "house",
+      "first_name": "Cheri",
+      "last_name": "Bustos",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Pittenger": [
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Pittenger",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Westerman": [
+    {
+      "chamber": "house",
+      "first_name": "Bruce",
+      "last_name": "Westerman",
+      "state": "Arkansas",
+      "title": "Rep"
+    }
+  ],
+  "Paulsen": [
+    {
+      "chamber": "house",
+      "first_name": "Erik",
+      "last_name": "Paulsen",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Moulton": [
+    {
+      "chamber": "house",
+      "first_name": "Seth",
+      "last_name": "Moulton",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Cantwell": [
+    {
+      "chamber": "senate",
+      "first_name": "Maria",
+      "last_name": "Cantwell",
+      "state": "Washington",
+      "title": "Sen"
+    }
+  ],
+  "Graham": [
+    {
+      "chamber": "house",
+      "first_name": "Gwen",
+      "last_name": "Graham",
+      "state": "Florida",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Lindsey",
+      "last_name": "Graham",
+      "state": "South Carolina",
+      "title": "Sen"
+    }
+  ],
+  "Cotton": [
+    {
+      "chamber": "senate",
+      "first_name": "Tom",
+      "last_name": "Cotton",
+      "state": "Arkansas",
+      "title": "Sen"
+    }
+  ],
+  "Napolitano": [
+    {
+      "chamber": "house",
+      "first_name": "Grace",
+      "last_name": "Napolitano",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Corker": [
+    {
+      "chamber": "senate",
+      "first_name": "Bob",
+      "last_name": "Corker",
+      "state": "Tennessee",
+      "title": "Sen"
+    }
+  ],
+  "McHenry": [
+    {
+      "chamber": "house",
+      "first_name": "Patrick",
+      "last_name": "McHenry",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Meadows": [
+    {
+      "chamber": "house",
+      "first_name": "Mark",
+      "last_name": "Meadows",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Brownley": [
+    {
+      "chamber": "house",
+      "first_name": "Julia",
+      "last_name": "Brownley",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Waters": [
+    {
+      "chamber": "house",
+      "first_name": "Maxine",
+      "last_name": "Waters",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Womack": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Womack",
+      "state": "Arkansas",
+      "title": "Rep"
+    }
+  ],
+  "Ribble": [
+    {
+      "chamber": "house",
+      "first_name": "Reid",
+      "last_name": "Ribble",
+      "state": "Wisconsin",
+      "title": "Rep"
+    }
+  ],
+  "Ratcliffe": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Ratcliffe",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Lynch": [
+    {
+      "chamber": "house",
+      "first_name": "Stephen",
+      "last_name": "Lynch",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Lowenthal": [
+    {
+      "chamber": "house",
+      "first_name": "Alan",
+      "last_name": "Lowenthal",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Neugebauer": [
+    {
+      "chamber": "house",
+      "first_name": "Randy",
+      "last_name": "Neugebauer",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Adams": [
+    {
+      "chamber": "house",
+      "first_name": "Alma",
+      "last_name": "Adams",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Dingell": [
+    {
+      "chamber": "house",
+      "first_name": "Debbie",
+      "last_name": "Dingell",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Dent": [
+    {
+      "chamber": "house",
+      "first_name": "Charles",
+      "last_name": "Dent",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Donovan": [
+    {
+      "chamber": "house",
+      "first_name": "Daniel",
+      "last_name": "Donovan",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Fortenberry": [
+    {
+      "chamber": "house",
+      "first_name": "Jeff",
+      "last_name": "Fortenberry",
+      "state": "Nebraska",
+      "title": "Rep"
+    }
+  ],
+  "Durbin": [
+    {
+      "chamber": "senate",
+      "first_name": "Richard",
+      "last_name": "Durbin",
+      "state": "Illinois",
+      "title": "Sen"
+    }
+  ],
+  "Labrador": [
+    {
+      "chamber": "house",
+      "first_name": "Raúl",
+      "last_name": "Labrador",
+      "state": "Idaho",
+      "title": "Rep"
+    }
+  ],
+  "Sarbanes": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Sarbanes",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Lee": [
+    {
+      "chamber": "house",
+      "first_name": "Sheila",
+      "last_name": "Jackson Lee",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Cornyn": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Cornyn",
+      "state": "Texas",
+      "title": "Sen"
+    }
+  ],
+  "Markey": [
+    {
+      "chamber": "senate",
+      "first_name": "Edward",
+      "last_name": "Markey",
+      "state": "Massachusetts",
+      "title": "Sen"
+    }
+  ],
+  "Heitkamp": [
+    {
+      "chamber": "senate",
+      "first_name": "Heidi",
+      "last_name": "Heitkamp",
+      "state": "North Dakota",
+      "title": "Sen"
+    }
+  ],
+  "Cole": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Cole",
+      "state": "Oklahoma",
+      "title": "Rep"
+    }
+  ],
+  "Barrasso": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Barrasso",
+      "state": "Wyoming",
+      "title": "Sen"
+    }
+  ],
+  "Walters": [
+    {
+      "chamber": "house",
+      "first_name": "Mimi",
+      "last_name": "Walters",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Chaffetz": [
+    {
+      "chamber": "house",
+      "first_name": "Jason",
+      "last_name": "Chaffetz",
+      "state": "Utah",
+      "title": "Rep"
+    }
+  ],
+  "Marchant": [
+    {
+      "chamber": "house",
+      "first_name": "Kenny",
+      "last_name": "Marchant",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "McGovern": [
+    {
+      "chamber": "house",
+      "first_name": "James",
+      "last_name": "McGovern",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Beyer": [
+    {
+      "chamber": "house",
+      "first_name": "Donald",
+      "last_name": "Beyer",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Edwards": [
+    {
+      "chamber": "house",
+      "first_name": "Donna",
+      "last_name": "Edwards",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Clyburn": [
+    {
+      "chamber": "house",
+      "first_name": "James",
+      "last_name": "Clyburn",
+      "state": "South Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Peters": [
+    {
+      "chamber": "house",
+      "first_name": "Scott",
+      "last_name": "Peters",
+      "state": "California",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Gary",
+      "last_name": "Peters",
+      "state": "Michigan",
+      "title": "Sen"
+    }
+  ],
+  "Rubio": [
+    {
+      "chamber": "senate",
+      "first_name": "Marco",
+      "last_name": "Rubio",
+      "state": "Florida",
+      "title": "Sen"
+    }
+  ],
+  "Ashford": [
+    {
+      "chamber": "house",
+      "first_name": "Brad",
+      "last_name": "Ashford",
+      "state": "Nebraska",
+      "title": "Rep"
+    }
+  ],
+  "Courtney": [
+    {
+      "chamber": "house",
+      "first_name": "Joe",
+      "last_name": "Courtney",
+      "state": "Connecticut",
+      "title": "Rep"
+    }
+  ],
+  "Meng": [
+    {
+      "chamber": "house",
+      "first_name": "Grace",
+      "last_name": "Meng",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Fudge": [
+    {
+      "chamber": "house",
+      "first_name": "Marcia",
+      "last_name": "Fudge",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Ruiz": [
+    {
+      "chamber": "house",
+      "first_name": "Raul",
+      "last_name": "Ruiz",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Tonko": [
+    {
+      "chamber": "house",
+      "first_name": "Paul",
+      "last_name": "Tonko",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Cramer": [
+    {
+      "chamber": "house",
+      "first_name": "Kevin",
+      "last_name": "Cramer",
+      "state": "North Dakota",
+      "title": "Rep"
+    }
+  ],
+  "Doggett": [
+    {
+      "chamber": "house",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "McCaskill": [
+    {
+      "chamber": "senate",
+      "first_name": "Claire",
+      "last_name": "McCaskill",
+      "state": "Missouri",
+      "title": "Sen"
+    }
+  ],
+  "Latta": [
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Latta",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Hunter": [
+    {
+      "chamber": "house",
+      "first_name": "Duncan",
+      "last_name": "Hunter",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "DeSaulnier": [
+    {
+      "chamber": "house",
+      "first_name": "Mark",
+      "last_name": "DeSaulnier",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Nugent": [
+    {
+      "chamber": "house",
+      "first_name": "Richard",
+      "last_name": "Nugent",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Tipton": [
+    {
+      "chamber": "house",
+      "first_name": "Scott",
+      "last_name": "Tipton",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "Schakowsky": [
+    {
+      "chamber": "house",
+      "first_name": "Janice",
+      "last_name": "Schakowsky",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "McCain": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "McCain",
+      "state": "Arizona",
+      "title": "Sen"
+    }
+  ],
+  "Reid": [
+    {
+      "chamber": "senate",
+      "first_name": "Harry",
+      "last_name": "Reid",
+      "state": "Nevada",
+      "title": "Sen"
+    }
+  ],
+  "Thornberry": [
+    {
+      "chamber": "house",
+      "first_name": "Mac",
+      "last_name": "Thornberry",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Rohrabacher": [
+    {
+      "chamber": "house",
+      "first_name": "Dana",
+      "last_name": "Rohrabacher",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "LaMalfa": [
+    {
+      "chamber": "house",
+      "first_name": "Doug",
+      "last_name": "LaMalfa",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "DeLauro": [
+    {
+      "chamber": "house",
+      "first_name": "Rosa",
+      "last_name": "DeLauro",
+      "state": "Connecticut",
+      "title": "Rep"
+    }
+  ],
+  "Carter": [
+    {
+      "chamber": "house",
+      "first_name": "Buddy",
+      "last_name": "Carter",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Carter",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Hultgren": [
+    {
+      "chamber": "house",
+      "first_name": "Randy",
+      "last_name": "Hultgren",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Miller": [
+    {
+      "chamber": "house",
+      "first_name": "Jeff",
+      "last_name": "Miller",
+      "state": "Florida",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Candice",
+      "last_name": "Miller",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Tester": [
+    {
+      "chamber": "senate",
+      "first_name": "Jon",
+      "last_name": "Tester",
+      "state": "Montana",
+      "title": "Sen"
+    }
+  ],
+  "Shimkus": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Shimkus",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "McConnell": [
+    {
+      "chamber": "senate",
+      "first_name": "Mitch",
+      "last_name": "McConnell",
+      "state": "Kentucky",
+      "title": "Sen"
+    }
+  ],
+  "Moran": [
+    {
+      "chamber": "senate",
+      "first_name": "Jerry",
+      "last_name": "Moran",
+      "state": "Kansas",
+      "title": "Sen"
+    }
+  ],
+  "Hirono": [
+    {
+      "chamber": "senate",
+      "first_name": "Mazie",
+      "last_name": "Hirono",
+      "state": "Hawaii",
+      "title": "Sen"
+    }
+  ],
+  "Lamborn": [
+    {
+      "chamber": "house",
+      "first_name": "Doug",
+      "last_name": "Lamborn",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "Isakson": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Isakson",
+      "state": "Georgia",
+      "title": "Sen"
+    }
+  ],
+  "Renacci": [
+    {
+      "chamber": "house",
+      "first_name": "James",
+      "last_name": "Renacci",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Russell": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Russell",
+      "state": "Oklahoma",
+      "title": "Rep"
+    }
+  ],
+  "Conyers": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Conyers",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Frelinghuysen": [
+    {
+      "chamber": "house",
+      "first_name": "Rodney",
+      "last_name": "Frelinghuysen",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "DelBene": [
+    {
+      "chamber": "house",
+      "first_name": "Suzan",
+      "last_name": "DelBene",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Ellmers": [
+    {
+      "chamber": "house",
+      "first_name": "Renee",
+      "last_name": "Ellmers",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Torres": [
+    {
+      "chamber": "house",
+      "first_name": "Norma",
+      "last_name": "Torres",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Bost": [
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Bost",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Marino": [
+    {
+      "chamber": "house",
+      "first_name": "Tom",
+      "last_name": "Marino",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "DeGette": [
+    {
+      "chamber": "house",
+      "first_name": "Diana",
+      "last_name": "DeGette",
+      "state": "Colorado",
+      "title": "Rep"
+    }
+  ],
+  "Comstock": [
+    {
+      "chamber": "house",
+      "first_name": "Barbara",
+      "last_name": "Comstock",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Roberts": [
+    {
+      "chamber": "senate",
+      "first_name": "Pat",
+      "last_name": "Roberts",
+      "state": "Kansas",
+      "title": "Sen"
+    }
+  ],
+  "Goodlatte": [
+    {
+      "chamber": "house",
+      "first_name": "Bob",
+      "last_name": "Goodlatte",
+      "state": "Virginia",
+      "title": "Rep"
+    }
+  ],
+  "Booker": [
+    {
+      "chamber": "senate",
+      "first_name": "Cory",
+      "last_name": "Booker",
+      "state": "New Jersey",
+      "title": "Sen"
+    }
+  ],
+  "Nelson": [
+    {
+      "chamber": "senate",
+      "first_name": "Bill",
+      "last_name": "Nelson",
+      "state": "Florida",
+      "title": "Sen"
+    }
+  ],
+  "Stivers": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Stivers",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Cohen": [
+    {
+      "chamber": "house",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Cartwright": [
+    {
+      "chamber": "house",
+      "first_name": "Matthew",
+      "last_name": "Cartwright",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Grisham": [
+    {
+      "chamber": "house",
+      "first_name": "Michelle",
+      "last_name": "Lujan Grisham",
+      "state": "New Mexico",
+      "title": "Rep"
+    }
+  ],
+  "Rounds": [
+    {
+      "chamber": "senate",
+      "first_name": "Mike",
+      "last_name": "Rounds",
+      "state": "South Dakota",
+      "title": "Sen"
+    }
+  ],
+  "Warren": [
+    {
+      "chamber": "senate",
+      "first_name": "Elizabeth",
+      "last_name": "Warren",
+      "state": "Massachusetts",
+      "title": "Sen"
+    }
+  ],
+  "Perry": [
+    {
+      "chamber": "house",
+      "first_name": "Scott",
+      "last_name": "Perry",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Schiff": [
+    {
+      "chamber": "house",
+      "first_name": "Adam",
+      "last_name": "Schiff",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Garrett": [
+    {
+      "chamber": "house",
+      "first_name": "Scott",
+      "last_name": "Garrett",
+      "state": "New Jersey",
+      "title": "Rep"
+    }
+  ],
+  "Jolly": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Jolly",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Engel": [
+    {
+      "chamber": "house",
+      "first_name": "Eliot",
+      "last_name": "Engel",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Kinzinger": [
+    {
+      "chamber": "house",
+      "first_name": "Adam",
+      "last_name": "Kinzinger",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Gosar": [
+    {
+      "chamber": "house",
+      "first_name": "Paul",
+      "last_name": "Gosar",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Coats": [
+    {
+      "chamber": "senate",
+      "first_name": "Daniel",
+      "last_name": "Coats",
+      "state": "Indiana",
+      "title": "Sen"
+    }
+  ],
+  "Delaney": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Delaney",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Norton": [
+    {
+      "chamber": "house",
+      "first_name": "Eleanor",
+      "last_name": "Norton",
+      "state": "District of Columbia",
+      "title": "Del"
+    }
+  ],
+  "Udall": [
+    {
+      "chamber": "senate",
+      "first_name": "Tom",
+      "last_name": "Udall",
+      "state": "New Mexico",
+      "title": "Sen"
+    }
+  ],
+  "Lee": [
+    {
+      "chamber": "senate",
+      "first_name": "Mike",
+      "last_name": "Lee",
+      "state": "Utah",
+      "title": "Sen"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Barbara",
+      "last_name": "Lee",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Pompeo": [
+    {
+      "chamber": "house",
+      "first_name": "Mike",
+      "last_name": "Pompeo",
+      "state": "Kansas",
+      "title": "Rep"
+    }
+  ],
+  "Blumenauer": [
+    {
+      "chamber": "house",
+      "first_name": "Earl",
+      "last_name": "Blumenauer",
+      "state": "Oregon",
+      "title": "Rep"
+    }
+  ],
+  "Davidson": [
+    {
+      "chamber": "house",
+      "first_name": "Warren",
+      "last_name": "Davidson",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Capuano": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Capuano",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Royce": [
+    {
+      "chamber": "house",
+      "first_name": "Edward",
+      "last_name": "Royce",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Donnelly": [
+    {
+      "chamber": "senate",
+      "first_name": "Joe",
+      "last_name": "Donnelly",
+      "state": "Indiana",
+      "title": "Sen"
+    }
+  ],
+  "Brady": [
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Brady",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Kevin",
+      "last_name": "Brady",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Aguilar": [
+    {
+      "chamber": "house",
+      "first_name": "Pete",
+      "last_name": "Aguilar",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Lankford": [
+    {
+      "chamber": "senate",
+      "first_name": "James",
+      "last_name": "Lankford",
+      "state": "Oklahoma",
+      "title": "Sen"
+    }
+  ],
+  "Neal": [
+    {
+      "chamber": "house",
+      "first_name": "Richard",
+      "last_name": "Neal",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Gallego": [
+    {
+      "chamber": "house",
+      "first_name": "Ruben",
+      "last_name": "Gallego",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Yarmuth": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Yarmuth",
+      "state": "Kentucky",
+      "title": "Rep"
+    }
+  ],
+  "Davis": [
+    {
+      "chamber": "house",
+      "first_name": "Rodney",
+      "last_name": "Davis",
+      "state": "Illinois",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Susan",
+      "last_name": "Davis",
+      "state": "California",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Danny",
+      "last_name": "Davis",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "McCaul": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "McCaul",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Kirkpatrick": [
+    {
+      "chamber": "house",
+      "first_name": "Ann",
+      "last_name": "Kirkpatrick",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Sanchez": [
+    {
+      "chamber": "house",
+      "first_name": "Loretta",
+      "last_name": "Sanchez",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Barr": [
+    {
+      "chamber": "house",
+      "first_name": "Garland",
+      "last_name": "Barr",
+      "state": "Kentucky",
+      "title": "Rep"
+    }
+  ],
+  "Roe": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Roe",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Huizenga": [
+    {
+      "chamber": "house",
+      "first_name": "Bill",
+      "last_name": "Huizenga",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Esty": [
+    {
+      "chamber": "house",
+      "first_name": "Elizabeth",
+      "last_name": "Esty",
+      "state": "Connecticut",
+      "title": "Rep"
+    }
+  ],
+  "Nunes": [
+    {
+      "chamber": "house",
+      "first_name": "Devin",
+      "last_name": "Nunes",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Rooney": [
+    {
+      "chamber": "house",
+      "first_name": "Thomas",
+      "last_name": "Rooney",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Salmon": [
+    {
+      "chamber": "house",
+      "first_name": "Matt",
+      "last_name": "Salmon",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Young": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Young",
+      "state": "Iowa",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Todd",
+      "last_name": "Young",
+      "state": "Indiana",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Don",
+      "last_name": "Young",
+      "state": "Alaska",
+      "title": "Rep"
+    }
+  ],
+  "Diaz-Balart": [
+    {
+      "chamber": "house",
+      "first_name": "Mario",
+      "last_name": "Diaz-Balart",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Foxx": [
+    {
+      "chamber": "house",
+      "first_name": "Virginia",
+      "last_name": "Foxx",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Speier": [
+    {
+      "chamber": "house",
+      "first_name": "Jackie",
+      "last_name": "Speier",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Cuellar": [
+    {
+      "chamber": "house",
+      "first_name": "Henry",
+      "last_name": "Cuellar",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Hoyer": [
+    {
+      "chamber": "house",
+      "first_name": "Steny",
+      "last_name": "Hoyer",
+      "state": "Maryland",
+      "title": "Rep"
+    }
+  ],
+  "Lawrence": [
+    {
+      "chamber": "house",
+      "first_name": "Brenda",
+      "last_name": "Lawrence",
+      "state": "Michigan",
+      "title": "Rep"
+    }
+  ],
+  "Woodall": [
+    {
+      "chamber": "house",
+      "first_name": "Rob",
+      "last_name": "Woodall",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Wenstrup": [
+    {
+      "chamber": "house",
+      "first_name": "Brad",
+      "last_name": "Wenstrup",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Boxer": [
+    {
+      "chamber": "senate",
+      "first_name": "Barbara",
+      "last_name": "Boxer",
+      "state": "California",
+      "title": "Sen"
+    }
+  ],
+  "Kuster": [
+    {
+      "chamber": "house",
+      "first_name": "Ann",
+      "last_name": "Kuster",
+      "state": "New Hampshire",
+      "title": "Rep"
+    }
+  ],
+  "Mikulski": [
+    {
+      "chamber": "senate",
+      "first_name": "Barbara",
+      "last_name": "Mikulski",
+      "state": "Maryland",
+      "title": "Sen"
+    }
+  ],
+  "Schweikert": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Schweikert",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Duckworth": [
+    {
+      "chamber": "house",
+      "first_name": "Tammy",
+      "last_name": "Duckworth",
+      "state": "Illinois",
+      "title": "Rep"
+    }
+  ],
+  "Cassidy": [
+    {
+      "chamber": "senate",
+      "first_name": "Bill",
+      "last_name": "Cassidy",
+      "state": "Louisiana",
+      "title": "Sen"
+    }
+  ],
+  "Walker": [
+    {
+      "chamber": "house",
+      "first_name": "Mark",
+      "last_name": "Walker",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Massie": [
+    {
+      "chamber": "house",
+      "first_name": "Thomas",
+      "last_name": "Massie",
+      "state": "Kentucky",
+      "title": "Rep"
+    }
+  ],
+  "Murray": [
+    {
+      "chamber": "senate",
+      "first_name": "Patty",
+      "last_name": "Murray",
+      "state": "Washington",
+      "title": "Sen"
+    }
+  ],
+  "Franks": [
+    {
+      "chamber": "house",
+      "first_name": "Trent",
+      "last_name": "Franks",
+      "state": "Arizona",
+      "title": "Rep"
+    }
+  ],
+  "Walz": [
+    {
+      "chamber": "house",
+      "first_name": "Timothy",
+      "last_name": "Walz",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Thune": [
+    {
+      "chamber": "senate",
+      "first_name": "John",
+      "last_name": "Thune",
+      "state": "South Dakota",
+      "title": "Sen"
+    }
+  ],
+  "Tiberi": [
+    {
+      "chamber": "house",
+      "first_name": "Patrick",
+      "last_name": "Tiberi",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ],
+  "Schultz": [
+    {
+      "chamber": "house",
+      "first_name": "Debbie",
+      "last_name": "Wasserman Schultz",
+      "state": "Florida",
+      "title": "Rep"
+    }
+  ],
+  "Wicker": [
+    {
+      "chamber": "senate",
+      "first_name": "Roger",
+      "last_name": "Wicker",
+      "state": "Mississippi",
+      "title": "Sen"
+    }
+  ],
+  "Hudson": [
+    {
+      "chamber": "house",
+      "first_name": "Richard",
+      "last_name": "Hudson",
+      "state": "North Carolina",
+      "title": "Rep"
+    }
+  ],
+  "Carson": [
+    {
+      "chamber": "house",
+      "first_name": "André",
+      "last_name": "Carson",
+      "state": "Indiana",
+      "title": "Rep"
+    }
+  ],
+  "Blunt": [
+    {
+      "chamber": "senate",
+      "first_name": "Roy",
+      "last_name": "Blunt",
+      "state": "Missouri",
+      "title": "Sen"
+    }
+  ],
+  "Gohmert": [
+    {
+      "chamber": "house",
+      "first_name": "Louie",
+      "last_name": "Gohmert",
+      "state": "Texas",
+      "title": "Rep"
+    }
+  ],
+  "Sessions": [
+    {
+      "chamber": "house",
+      "first_name": "Pete",
+      "last_name": "Sessions",
+      "state": "Texas",
+      "title": "Rep"
+    },
+    {
+      "chamber": "senate",
+      "first_name": "Jefferson",
+      "last_name": "Sessions",
+      "state": "Alabama",
+      "title": "Sen"
+    }
+  ],
+  "Kennedy": [
+    {
+      "chamber": "house",
+      "first_name": "Joseph",
+      "last_name": "Kennedy",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Reichert": [
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Reichert",
+      "state": "Washington",
+      "title": "Rep"
+    }
+  ],
+  "Nolan": [
+    {
+      "chamber": "house",
+      "first_name": "Richard",
+      "last_name": "Nolan",
+      "state": "Minnesota",
+      "title": "Rep"
+    }
+  ],
+  "Cleaver": [
+    {
+      "chamber": "house",
+      "first_name": "Emanuel",
+      "last_name": "Cleaver",
+      "state": "Missouri",
+      "title": "Rep"
+    }
+  ],
+  "Heinrich": [
+    {
+      "chamber": "senate",
+      "first_name": "Martin",
+      "last_name": "Heinrich",
+      "state": "New Mexico",
+      "title": "Sen"
+    }
+  ],
+  "Tsongas": [
+    {
+      "chamber": "house",
+      "first_name": "Niki",
+      "last_name": "Tsongas",
+      "state": "Massachusetts",
+      "title": "Rep"
+    }
+  ],
+  "Costa": [
+    {
+      "chamber": "house",
+      "first_name": "Jim",
+      "last_name": "Costa",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Hanna": [
+    {
+      "chamber": "house",
+      "first_name": "Richard",
+      "last_name": "Hanna",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Fincher": [
+    {
+      "chamber": "house",
+      "first_name": "Stephen",
+      "last_name": "Fincher",
+      "state": "Tennessee",
+      "title": "Rep"
+    }
+  ],
+  "Hahn": [
+    {
+      "chamber": "house",
+      "first_name": "Janice",
+      "last_name": "Hahn",
+      "state": "California",
+      "title": "Rep"
+    }
+  ],
+  "Meehan": [
+    {
+      "chamber": "house",
+      "first_name": "Patrick",
+      "last_name": "Meehan",
+      "state": "Pennsylvania",
+      "title": "Rep"
+    }
+  ],
+  "Leahy": [
+    {
+      "chamber": "senate",
+      "first_name": "Patrick",
+      "last_name": "Leahy",
+      "state": "Vermont",
+      "title": "Sen"
+    }
+  ],
+  "Simpson": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Simpson",
+      "state": "Idaho",
+      "title": "Rep"
+    }
+  ],
+  "Stewart": [
+    {
+      "chamber": "house",
+      "first_name": "Chris",
+      "last_name": "Stewart",
+      "state": "Utah",
+      "title": "Rep"
+    }
+  ],
+  "Zeldin": [
+    {
+      "chamber": "house",
+      "first_name": "Lee",
+      "last_name": "Zeldin",
+      "state": "New York",
+      "title": "Rep"
+    }
+  ],
+  "Fleming": [
+    {
+      "chamber": "house",
+      "first_name": "John",
+      "last_name": "Fleming",
+      "state": "Louisiana",
+      "title": "Rep"
+    }
+  ],
+  "Scott": [
+    {
+      "chamber": "senate",
+      "first_name": "Tim",
+      "last_name": "Scott",
+      "state": "South Carolina",
+      "title": "Sen"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Robert",
+      "last_name": "Scott",
+      "state": "Virginia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "David",
+      "last_name": "Scott",
+      "state": "Georgia",
+      "title": "Rep"
+    },
+    {
+      "chamber": "house",
+      "first_name": "Austin",
+      "last_name": "Scott",
+      "state": "Georgia",
+      "title": "Rep"
+    }
+  ],
+  "Turner": [
+    {
+      "chamber": "house",
+      "first_name": "Michael",
+      "last_name": "Turner",
+      "state": "Ohio",
+      "title": "Rep"
+    }
+  ]
+}
