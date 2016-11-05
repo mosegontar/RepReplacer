@@ -393,6 +393,15 @@
       "title": "Senator"
     }
   ],
+  "Toomey": [
+    {
+      "chamber": "senate",
+      "first_name": "Pat",
+      "last_name": "Toomey",
+      "state": "Pennsylvania",
+      "title": "Senator"
+    }
+  ],  
   "Long": [
     {
       "chamber": "house",
@@ -2383,6 +2392,15 @@
       "title": "Senator"
     }
   ],
+  "Inhofe": [
+    {
+      "chamber": "senate",
+      "first_name": "Jim",
+      "last_name": "Inhofe",
+      "state": "Oklahoma",
+      "title": "Senator"
+    }
+  ],  
   "Welch": [
     {
       "chamber": "house",
@@ -2649,6 +2667,15 @@
       "title": "Senator"
     }
   ],
+  "Kaine": [
+    {
+      "chamber": "senate",
+      "first_name": "Tim",
+      "last_name": "Kaine",
+      "state": "Virginia",
+      "title": "Senator"
+    }
+  ],  
   "Duffy": [
     {
       "chamber": "house",

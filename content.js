@@ -87,9 +87,17 @@ function walk(node) {
 
 function replaceText(textNode) {
 
+    textNode.nodeValue = textNode.nodeValue.replace(/Sen\./g, 'Senator');
+    textNode.nodeValue = textNode.nodeValue.replace(/Rep\./g, 'Representative');
+
+
     for (var i = 0; i < foundNames.length; i++) {
-        var re = new RegExp(foundNames[i][0], "g");
-        textNode.nodeValue = textNode.nodeValue.replace(re, 'A '+foundNames[i][3].toLowerCase()+ ' from '+ foundNames[i][2]);
+        var title = foundNames[i][3]; 
+        var re = new RegExp(title+' '+foundNames[i][1]+' '+ foundNames[i][0], "g");
+        textNode.nodeValue = textNode.nodeValue.replace(re, 'a '+title.toLowerCase()+ ' from '+ foundNames[i][2]);
+        textNode.nodeValue = textNode.nodeValue.replace(/^\S/g, function(x){return x.toUpperCase();});
+        textNode.nodeValue = textNode.nodeValue.replace(/\(D-.+\)/g, '');
+        textNode.nodeValue = textNode.nodeValue.replace(/\(R-.+\)/g, '');
     }
 
 
