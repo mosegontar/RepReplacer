@@ -1,7 +1,75 @@
 {
+  "Obama": [
+    {
+      "institution": "president",
+      "first_name": "Barack",
+      "last_name": "Obama",
+      "state": "Illinois",
+      "title": [
+        "U.S. President",                
+        "President",        
+        "the President of the United States",        
+        "President of the United States",
+        "Mister"               
+      ]
+    }
+  ],
+  "Biden": [
+    {
+      "institution": "vice president",
+      "first_name": "Joe",
+      "last_name": "Biden",
+      "state": "Delaware",
+      "title": [
+        "Vice President",        
+        "U.S. Vice President",        
+        "the Vice President of the United States",        
+        "Vice President of the United States",
+        "Mister"               
+      ]
+    }
+  ],  
+  "Biden": [
+    {
+      "institution": "vice president",
+      "first_name": "Joseph",
+      "last_name": "Biden",
+      "state": "Delaware",
+      "title": [
+        "Vice President",        
+        "U.S. Vice President",        
+        "the Vice President of the United States",        
+        "Vice President of the United States",
+        "Mister"               
+      ]
+    }
+  ], 
+  "Clinton": [
+    {
+      "institution": "presidential candidate",
+      "first_name": "Hillary",
+      "last_name": "Clinton",
+      "state": "New York",
+      "title": [
+        "Secretary",
+        "Misses"
+      ]
+    }
+  ],    
+  "Trump": [
+    {
+      "institution": "presidential candidate",
+      "first_name": "Donald",
+      "last_name": "Trump",
+      "state": "New York",
+      "title": [
+        "Mister"
+      ]
+    }
+  ],        
   "Castor": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kathy",
       "last_name": "Castor",
       "state": "Florida",
@@ -10,10 +78,10 @@
         "Congressman"
       ]
     }
-  ],
+  ],      
   "Deutch": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ted",
       "last_name": "Deutch",
       "state": "Florida",
@@ -25,7 +93,7 @@
   ],
   "Shelby": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Richard",
       "last_name": "Shelby",
       "state": "Alabama",
@@ -36,7 +104,7 @@
   ],
   "Frankel": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lois",
       "last_name": "Frankel",
       "state": "Florida",
@@ -48,7 +116,7 @@
   ],
   "Franken": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Alan",
       "last_name": "Franken",
       "state": "Minnesota",
@@ -59,7 +127,7 @@
   ],
   "Nadler": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jerrold",
       "last_name": "Nadler",
       "state": "New York",
@@ -71,7 +139,7 @@
   ],
   "Hinojosa": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rubén",
       "last_name": "Hinojosa",
       "state": "Texas",
@@ -83,7 +151,7 @@
   ],
   "McSally": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Martha",
       "last_name": "McSally",
       "state": "Arizona",
@@ -95,7 +163,7 @@
   ],
   "Larsen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rick",
       "last_name": "Larsen",
       "state": "Washington",
@@ -107,7 +175,7 @@
   ],
   "Shuster": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Shuster",
       "state": "Pennsylvania",
@@ -119,7 +187,7 @@
   ],
   "Burgess": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Burgess",
       "state": "Texas",
@@ -131,7 +199,7 @@
   ],
   "Coleman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bonnie",
       "last_name": "Watson Coleman",
       "state": "New Jersey",
@@ -143,7 +211,7 @@
   ],
   "Coons": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Chris",
       "last_name": "Coons",
       "state": "Delaware",
@@ -154,7 +222,7 @@
   ],
   "Boyle": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brendan",
       "last_name": "Boyle",
       "state": "Pennsylvania",
@@ -166,7 +234,7 @@
   ],
   "Brown": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Corrine",
       "last_name": "Brown",
       "state": "Florida",
@@ -176,7 +244,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Sherrod",
       "last_name": "Brown",
       "state": "Ohio",
@@ -187,7 +255,7 @@
   ],
   "Honda": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Honda",
       "state": "California",
@@ -199,7 +267,7 @@
   ],
   "Rangel": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Charles",
       "last_name": "Rangel",
       "state": "New York",
@@ -211,7 +279,7 @@
   ],
   "Payne": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Donald",
       "last_name": "Payne",
       "state": "New Jersey",
@@ -223,7 +291,7 @@
   ],
   "Harper": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gregg",
       "last_name": "Harper",
       "state": "Mississippi",
@@ -235,7 +303,7 @@
   ],
   "Sewell": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Terri",
       "last_name": "Sewell",
       "state": "Alabama",
@@ -247,7 +315,7 @@
   ],
   "Pingree": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Chellie",
       "last_name": "Pingree",
       "state": "Maine",
@@ -259,7 +327,7 @@
   ],
   "Burr": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Richard",
       "last_name": "Burr",
       "state": "North Carolina",
@@ -270,7 +338,7 @@
   ],
   "Kaptur": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Marcy",
       "last_name": "Kaptur",
       "state": "Ohio",
@@ -282,7 +350,7 @@
   ],
   "Trott": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dave",
       "last_name": "Trott",
       "state": "Michigan",
@@ -294,7 +362,7 @@
   ],
   "Higgins": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brian",
       "last_name": "Higgins",
       "state": "New York",
@@ -306,7 +374,7 @@
   ],
   "Titus": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dina",
       "last_name": "Titus",
       "state": "Nevada",
@@ -318,7 +386,7 @@
   ],
   "Loebsack": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Loebsack",
       "state": "Iowa",
@@ -330,7 +398,7 @@
   ],
   "Sinema": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kyrsten",
       "last_name": "Sinema",
       "state": "Arizona",
@@ -342,7 +410,7 @@
   ],
   "Vitter": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "David",
       "last_name": "Vitter",
       "state": "Louisiana",
@@ -353,7 +421,7 @@
   ],
   "Capito": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Shelley",
       "last_name": "Capito",
       "state": "West Virginia",
@@ -364,7 +432,7 @@
   ],
   "Swalwell": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Eric",
       "last_name": "Swalwell",
       "state": "California",
@@ -376,7 +444,7 @@
   ],
   "Sánchez": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Linda",
       "last_name": "Sánchez",
       "state": "California",
@@ -388,7 +456,7 @@
   ],
   "Enzi": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Michael",
       "last_name": "Enzi",
       "state": "Wyoming",
@@ -399,7 +467,7 @@
   ],
   "Kline": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Kline",
       "state": "Minnesota",
@@ -411,7 +479,7 @@
   ],
   "Pitts": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joseph",
       "last_name": "Pitts",
       "state": "Pennsylvania",
@@ -423,7 +491,7 @@
   ],
   "McCarthy": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kevin",
       "last_name": "McCarthy",
       "state": "California",
@@ -435,7 +503,7 @@
   ],
   "Quigley": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Quigley",
       "state": "Illinois",
@@ -447,7 +515,7 @@
   ],
   "Carper": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Thomas",
       "last_name": "Carper",
       "state": "Delaware",
@@ -458,7 +526,7 @@
   ],
   "Paul": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Rand",
       "last_name": "Paul",
       "state": "Kentucky",
@@ -469,7 +537,7 @@
   ],
   "Griffith": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "H.",
       "last_name": "Griffith",
       "state": "Virginia",
@@ -481,7 +549,7 @@
   ],
   "Bilirakis": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gus",
       "last_name": "Bilirakis",
       "state": "Florida",
@@ -493,7 +561,7 @@
   ],
   "Roby": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Martha",
       "last_name": "Roby",
       "state": "Alabama",
@@ -505,7 +573,7 @@
   ],
   "Toomey": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Patrick",
       "last_name": "Toomey",
       "state": "Pennsylvania",
@@ -516,7 +584,7 @@
   ],
   "Toomey": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Pat",
       "last_name": "Toomey",
       "state": "Pennsylvania",
@@ -527,7 +595,7 @@
   ],  
   "Long": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Billy",
       "last_name": "Long",
       "state": "Missouri",
@@ -539,7 +607,7 @@
   ],
   "Messer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Luke",
       "last_name": "Messer",
       "state": "Indiana",
@@ -551,7 +619,7 @@
   ],
   "Palazzo": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steven",
       "last_name": "Palazzo",
       "state": "Mississippi",
@@ -563,7 +631,7 @@
   ],
   "Collins": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Chris",
       "last_name": "Collins",
       "state": "New York",
@@ -573,7 +641,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Doug",
       "last_name": "Collins",
       "state": "Georgia",
@@ -583,7 +651,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Susan",
       "last_name": "Collins",
       "state": "Maine",
@@ -594,7 +662,7 @@
   ],
   "Rice": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kathleen",
       "last_name": "Rice",
       "state": "New York",
@@ -604,7 +672,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Rice",
       "state": "South Carolina",
@@ -616,7 +684,7 @@
   ],
   "Jeffries": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Hakeem",
       "last_name": "Jeffries",
       "state": "New York",
@@ -628,7 +696,7 @@
   ],
   "Sires": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Albio",
       "last_name": "Sires",
       "state": "New Jersey",
@@ -640,7 +708,7 @@
   ],
   "Sherman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brad",
       "last_name": "Sherman",
       "state": "California",
@@ -652,7 +720,7 @@
   ],
   "Cruz": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Ted",
       "last_name": "Cruz",
       "state": "Texas",
@@ -663,7 +731,7 @@
   ],
   "Reed": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Reed",
       "state": "New York",
@@ -673,7 +741,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Reed",
       "state": "Rhode Island",
@@ -684,7 +752,7 @@
   ],
   "Mica": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Mica",
       "state": "Florida",
@@ -696,7 +764,7 @@
   ],
   "McClintock": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "McClintock",
       "state": "California",
@@ -708,7 +776,7 @@
   ],
   "LoBiondo": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Frank",
       "last_name": "LoBiondo",
       "state": "New Jersey",
@@ -720,7 +788,7 @@
   ],
   "Rush": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bobby",
       "last_name": "Rush",
       "state": "Illinois",
@@ -732,7 +800,7 @@
   ],
   "Senatorsenbrenner": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "F.",
       "last_name": "Senatorsenbrenner",
       "state": "Wisconsin",
@@ -744,7 +812,7 @@
   ],
   "Barton": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joe",
       "last_name": "Barton",
       "state": "Texas",
@@ -756,7 +824,7 @@
   ],
   "Newhouse": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dan",
       "last_name": "Newhouse",
       "state": "Washington",
@@ -768,7 +836,7 @@
   ],
   "Hensarling": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jeb",
       "last_name": "Hensarling",
       "state": "Texas",
@@ -780,7 +848,7 @@
   ],
   "Green": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gene",
       "last_name": "Green",
       "state": "Texas",
@@ -790,7 +858,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Al",
       "last_name": "Green",
       "state": "Texas",
@@ -802,7 +870,7 @@
   ],
   "Flake": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jeff",
       "last_name": "Flake",
       "state": "Arizona",
@@ -813,7 +881,7 @@
   ],
   "Clay": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Wm.",
       "last_name": "Clay",
       "state": "Missouri",
@@ -825,7 +893,7 @@
   ],
   "Gibson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Christopher",
       "last_name": "Gibson",
       "state": "New York",
@@ -837,7 +905,7 @@
   ],
   "Warner": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Mark",
       "last_name": "Warner",
       "state": "Virginia",
@@ -848,7 +916,7 @@
   ],
   "Whitehouse": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Sheldon",
       "last_name": "Whitehouse",
       "state": "Rhode Island",
@@ -859,7 +927,7 @@
   ],
   "Fischer": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Deb",
       "last_name": "Fischer",
       "state": "Nebraska",
@@ -870,7 +938,7 @@
   ],
   "Clark": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Katherine",
       "last_name": "Clark",
       "state": "Massachusetts",
@@ -882,7 +950,7 @@
   ],
   "Sablan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gregorio",
       "last_name": "Sablan",
       "state": "Northern Mariana Islands",
@@ -891,7 +959,7 @@
   ],
   "Dold": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bob",
       "last_name": "Dold",
       "state": "Illinois",
@@ -903,7 +971,7 @@
   ],
   "Hardy": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Cresent",
       "last_name": "Hardy",
       "state": "Nevada",
@@ -915,7 +983,7 @@
   ],
   "Luetkemeyer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Blaine",
       "last_name": "Luetkemeyer",
       "state": "Missouri",
@@ -927,7 +995,7 @@
   ],
   "Pascrell": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Pascrell",
       "state": "New Jersey",
@@ -939,7 +1007,7 @@
   ],
   "Grayson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Alan",
       "last_name": "Grayson",
       "state": "Florida",
@@ -951,7 +1019,7 @@
   ],
   "Baldwin": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Tammy",
       "last_name": "Baldwin",
       "state": "Wisconsin",
@@ -962,7 +1030,7 @@
   ],
   "Poliquin": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bruce",
       "last_name": "Poliquin",
       "state": "Maine",
@@ -974,7 +1042,7 @@
   ],
   "DeFazio": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Peter",
       "last_name": "DeFazio",
       "state": "Oregon",
@@ -986,7 +1054,7 @@
   ],
   "Mullin": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Markwayne",
       "last_name": "Mullin",
       "state": "Oklahoma",
@@ -998,7 +1066,7 @@
   ],
   "Clarke": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Yvette",
       "last_name": "Clarke",
       "state": "New York",
@@ -1010,7 +1078,7 @@
   ],
   "Farenthold": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Blake",
       "last_name": "Farenthold",
       "state": "Texas",
@@ -1022,7 +1090,7 @@
   ],
   "Richmond": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Cedric",
       "last_name": "Richmond",
       "state": "Louisiana",
@@ -1034,7 +1102,7 @@
   ],
   "Kirk": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Mark",
       "last_name": "Kirk",
       "state": "Illinois",
@@ -1045,7 +1113,7 @@
   ],
   "Kilmer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Derek",
       "last_name": "Kilmer",
       "state": "Washington",
@@ -1057,7 +1125,7 @@
   ],
   "Fleischmann": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Charles",
       "last_name": "Fleischmann",
       "state": "Tennessee",
@@ -1069,7 +1137,7 @@
   ],
   "Weber": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Randy",
       "last_name": "Weber",
       "state": "Texas",
@@ -1081,7 +1149,7 @@
   ],
   "Clawson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Curtis",
       "last_name": "Clawson",
       "state": "Florida",
@@ -1093,7 +1161,7 @@
   ],
   "Sanders": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Bernie",
       "last_name": "Sanders",
       "state": "Vermont",
@@ -1104,7 +1172,7 @@
   ],
   "Walorski": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jackie",
       "last_name": "Walorski",
       "state": "Indiana",
@@ -1116,7 +1184,7 @@
   ],
   "Sasse": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Benjamin",
       "last_name": "Sasse",
       "state": "Nebraska",
@@ -1127,7 +1195,7 @@
   ],
   "Coffman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Coffman",
       "state": "Colorado",
@@ -1139,7 +1207,7 @@
   ],
   "Guthrie": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brett",
       "last_name": "Guthrie",
       "state": "Kentucky",
@@ -1151,7 +1219,7 @@
   ],
   "McCollum": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Betty",
       "last_name": "McCollum",
       "state": "Minnesota",
@@ -1163,7 +1231,7 @@
   ],
   "Beatty": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joyce",
       "last_name": "Beatty",
       "state": "Ohio",
@@ -1175,7 +1243,7 @@
   ],
   "Stabenow": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Debbie",
       "last_name": "Stabenow",
       "state": "Michigan",
@@ -1186,7 +1254,7 @@
   ],
   "Lipinski": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Daniel",
       "last_name": "Lipinski",
       "state": "Illinois",
@@ -1198,7 +1266,7 @@
   ],
   "Lipinski": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dan",
       "last_name": "Lipinski",
       "state": "Illinois",
@@ -1210,7 +1278,7 @@
   ],  
   "Brat": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Brat",
       "state": "Virginia",
@@ -1222,7 +1290,7 @@
   ],
   "Norcross": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Donald",
       "last_name": "Norcross",
       "state": "New Jersey",
@@ -1234,7 +1302,7 @@
   ],
   "Crowley": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joseph",
       "last_name": "Crowley",
       "state": "New York",
@@ -1246,7 +1314,7 @@
   ],
   "Luján": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ben",
       "last_name": "Luján",
       "state": "New Mexico",
@@ -1258,7 +1326,7 @@
   ],
   "Cicilline": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Cicilline",
       "state": "Rhode Island",
@@ -1270,7 +1338,7 @@
   ],
   "Butterfield": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "George",
       "last_name": "Butterfield",
       "state": "North Carolina",
@@ -1282,7 +1350,7 @@
   ],
   "Gillibrand": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Kirsten",
       "last_name": "Gillibrand",
       "state": "New York",
@@ -1293,7 +1361,7 @@
   ],
   "Lieu": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ted",
       "last_name": "Lieu",
       "state": "California",
@@ -1305,7 +1373,7 @@
   ],
   "McNerney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jerry",
       "last_name": "McNerney",
       "state": "California",
@@ -1317,7 +1385,7 @@
   ],
   "Gutiérrez": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Luis",
       "last_name": "Gutiérrez",
       "state": "Illinois",
@@ -1329,7 +1397,7 @@
   ],
   "Huelskamp": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tim",
       "last_name": "Huelskamp",
       "state": "Kansas",
@@ -1341,7 +1409,7 @@
   ],
   "Crapo": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Michael",
       "last_name": "Crapo",
       "state": "Idaho",
@@ -1352,7 +1420,7 @@
   ],
   "Pierluisi": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Pedro",
       "last_name": "Pierluisi",
       "state": "Puerto Rico",
@@ -1361,7 +1429,7 @@
   ],
   "Thompson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Glenn",
       "last_name": "Thompson",
       "state": "Pennsylvania",
@@ -1371,7 +1439,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Thompson",
       "state": "California",
@@ -1381,7 +1449,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bennie",
       "last_name": "Thompson",
       "state": "Mississippi",
@@ -1393,7 +1461,7 @@
   ],
   "Forbes": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "J.",
       "last_name": "Forbes",
       "state": "Virginia",
@@ -1405,7 +1473,7 @@
   ],
   "Holding": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "George",
       "last_name": "Holding",
       "state": "North Carolina",
@@ -1417,7 +1485,7 @@
   ],
   "Polis": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jared",
       "last_name": "Polis",
       "state": "Colorado",
@@ -1429,7 +1497,7 @@
   ],
   "Culberson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Culberson",
       "state": "Texas",
@@ -1441,7 +1509,7 @@
   ],
   "Eshoo": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Anna",
       "last_name": "Eshoo",
       "state": "California",
@@ -1453,7 +1521,7 @@
   ],
   "Grassley": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Charles",
       "last_name": "Grassley",
       "state": "Iowa",
@@ -1464,7 +1532,7 @@
   ],
   "Casey": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Robert",
       "last_name": "Casey",
       "state": "Pennsylvania",
@@ -1475,7 +1543,7 @@
   ],
   "O'Rourke": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Beto",
       "last_name": "O'Rourke",
       "state": "Texas",
@@ -1487,7 +1555,7 @@
   ],
   "Blumenthal": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Richard",
       "last_name": "Blumenthal",
       "state": "Connecticut",
@@ -1498,7 +1566,7 @@
   ],
   "Jordan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jim",
       "last_name": "Jordan",
       "state": "Ohio",
@@ -1510,7 +1578,7 @@
   ],
   "Tillis": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Thom",
       "last_name": "Tillis",
       "state": "North Carolina",
@@ -1521,7 +1589,7 @@
   ],
   "Amata": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Aumua",
       "last_name": "Amata",
       "state": "American Samoa",
@@ -1530,7 +1598,7 @@
   ],
   "Hoeven": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Hoeven",
       "state": "North Dakota",
@@ -1541,7 +1609,7 @@
   ],
   "Lucas": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Frank",
       "last_name": "Lucas",
       "state": "Oklahoma",
@@ -1553,7 +1621,7 @@
   ],
   "Lowey": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Nita",
       "last_name": "Lowey",
       "state": "New York",
@@ -1565,7 +1633,7 @@
   ],
   "Fitzpatrick": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Fitzpatrick",
       "state": "Pennsylvania",
@@ -1577,7 +1645,7 @@
   ],
   "Israel": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Israel",
       "state": "New York",
@@ -1589,7 +1657,7 @@
   ],
   "Ryan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tim",
       "last_name": "Ryan",
       "state": "Ohio",
@@ -1599,7 +1667,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Paul",
       "last_name": "Ryan",
       "state": "Wisconsin",
@@ -1613,7 +1681,7 @@
   ],
   "Connolly": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gerald",
       "last_name": "Connolly",
       "state": "Virginia",
@@ -1625,7 +1693,7 @@
   ],
   "DeSantis": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ron",
       "last_name": "DeSantis",
       "state": "Florida",
@@ -1637,7 +1705,7 @@
   ],
   "Perdue": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "David",
       "last_name": "Perdue",
       "state": "Georgia",
@@ -1648,7 +1716,7 @@
   ],
   "Kelly": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Trent",
       "last_name": "Kelly",
       "state": "Mississippi",
@@ -1658,7 +1726,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robin",
       "last_name": "Kelly",
       "state": "Illinois",
@@ -1668,7 +1736,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Kelly",
       "state": "Pennsylvania",
@@ -1680,7 +1748,7 @@
   ],
   "Bridenstine": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jim",
       "last_name": "Bridenstine",
       "state": "Oklahoma",
@@ -1692,7 +1760,7 @@
   ],
   "Barletta": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lou",
       "last_name": "Barletta",
       "state": "Pennsylvania",
@@ -1704,7 +1772,7 @@
   ],
   "Yoho": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ted",
       "last_name": "Yoho",
       "state": "Florida",
@@ -1716,7 +1784,7 @@
   ],
   "Klobuchar": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Amy",
       "last_name": "Klobuchar",
       "state": "Minnesota",
@@ -1727,7 +1795,7 @@
   ],
   "Noem": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kristi",
       "last_name": "Noem",
       "state": "South Dakota",
@@ -1739,7 +1807,7 @@
   ],
   "Cardin": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Benjamin",
       "last_name": "Cardin",
       "state": "Maryland",
@@ -1750,7 +1818,7 @@
   ],
   "Visclosky": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Peter",
       "last_name": "Visclosky",
       "state": "Indiana",
@@ -1762,7 +1830,7 @@
   ],
   "Huffman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jared",
       "last_name": "Huffman",
       "state": "California",
@@ -1774,7 +1842,7 @@
   ],
   "Boozman": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Boozman",
       "state": "Arkansas",
@@ -1785,7 +1853,7 @@
   ],
   "Wilson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Frederica",
       "last_name": "Wilson",
       "state": "Florida",
@@ -1795,7 +1863,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joe",
       "last_name": "Wilson",
       "state": "South Carolina",
@@ -1807,7 +1875,7 @@
   ],
   "Kildee": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Daniel",
       "last_name": "Kildee",
       "state": "Michigan",
@@ -1819,7 +1887,7 @@
   ],
   "Kildee": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dan",
       "last_name": "Kildee",
       "state": "Michigan",
@@ -1831,7 +1899,7 @@
   ],  
   "Upton": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Fred",
       "last_name": "Upton",
       "state": "Michigan",
@@ -1843,7 +1911,7 @@
   ],
   "Blum": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rod",
       "last_name": "Blum",
       "state": "Iowa",
@@ -1855,7 +1923,7 @@
   ],
   "Smith": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jason",
       "last_name": "Smith",
       "state": "Missouri",
@@ -1865,7 +1933,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lamar",
       "last_name": "Smith",
       "state": "Texas",
@@ -1875,7 +1943,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Christopher",
       "last_name": "Smith",
       "state": "New Jersey",
@@ -1885,7 +1953,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Adrian",
       "last_name": "Smith",
       "state": "Nebraska",
@@ -1895,7 +1963,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Adam",
       "last_name": "Smith",
       "state": "Washington",
@@ -1907,7 +1975,7 @@
   ],
   "Rigell": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Edward",
       "last_name": "Rigell",
       "state": "Virginia",
@@ -1919,7 +1987,7 @@
   ],
   "Wittman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Wittman",
       "state": "Virginia",
@@ -1931,7 +1999,7 @@
   ],
   "Ayotte": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Kelly",
       "last_name": "Ayotte",
       "state": "New Hampshire",
@@ -1942,7 +2010,7 @@
   ],
   "Gardner": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Cory",
       "last_name": "Gardner",
       "state": "Colorado",
@@ -1953,7 +2021,7 @@
   ],
   "Olson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Pete",
       "last_name": "Olson",
       "state": "Texas",
@@ -1965,7 +2033,7 @@
   ],
   "Veasey": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Marc",
       "last_name": "Veasey",
       "state": "Texas",
@@ -1977,7 +2045,7 @@
   ],
   "Brooks": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Susan",
       "last_name": "Brooks",
       "state": "Indiana",
@@ -1987,7 +2055,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mo",
       "last_name": "Brooks",
       "state": "Alabama",
@@ -1999,7 +2067,7 @@
   ],
   "Curbelo": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Carlos",
       "last_name": "Curbelo",
       "state": "Florida",
@@ -2011,7 +2079,7 @@
   ],
   "Harris": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Andy",
       "last_name": "Harris",
       "state": "Maryland",
@@ -2023,7 +2091,7 @@
   ],
   "Doyle": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Doyle",
       "state": "Pennsylvania",
@@ -2035,7 +2103,7 @@
   ],
   "Yoder": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kevin",
       "last_name": "Yoder",
       "state": "Kansas",
@@ -2047,7 +2115,7 @@
   ],
   "Buck": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ken",
       "last_name": "Buck",
       "state": "Colorado",
@@ -2059,7 +2127,7 @@
   ],
   "Rogers": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Rogers",
       "state": "Alabama",
@@ -2069,7 +2137,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Harold",
       "last_name": "Rogers",
       "state": "Kentucky",
@@ -2081,7 +2149,7 @@
   ],
   "Lummis": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Cynthia",
       "last_name": "Lummis",
       "state": "Wyoming",
@@ -2093,7 +2161,7 @@
   ],
   "Bennet": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Michael",
       "last_name": "Bennet",
       "state": "Colorado",
@@ -2104,7 +2172,7 @@
   ],
   "Risch": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "James",
       "last_name": "Risch",
       "state": "Idaho",
@@ -2115,7 +2183,7 @@
   ],
   "Webster": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Daniel",
       "last_name": "Webster",
       "state": "Florida",
@@ -2127,7 +2195,7 @@
   ],
   "Webster": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dan",
       "last_name": "Webster",
       "state": "Florida",
@@ -2139,7 +2207,7 @@
   ],  
   "Merkley": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jeff",
       "last_name": "Merkley",
       "state": "Oregon",
@@ -2150,7 +2218,7 @@
   ],
   "LaHood": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Darin",
       "last_name": "LaHood",
       "state": "Illinois",
@@ -2162,7 +2230,7 @@
   ],
   "Hollen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Chris",
       "last_name": "Van Hollen",
       "state": "Maryland",
@@ -2174,7 +2242,7 @@
   ],
   "Wagner": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ann",
       "last_name": "Wagner",
       "state": "Missouri",
@@ -2186,7 +2254,7 @@
   ],
   "Rodgers": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Cathy",
       "last_name": "McMorris Rodgers",
       "state": "Washington",
@@ -2198,7 +2266,7 @@
   ],
   "Walden": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Greg",
       "last_name": "Walden",
       "state": "Oregon",
@@ -2210,7 +2278,7 @@
   ],
   "Ruppersberger": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "C.",
       "last_name": "Ruppersberger",
       "state": "Maryland",
@@ -2222,7 +2290,7 @@
   ],
   "Pocan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mark",
       "last_name": "Pocan",
       "state": "Wisconsin",
@@ -2234,7 +2302,7 @@
   ],
   "Larson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Larson",
       "state": "Connecticut",
@@ -2246,7 +2314,7 @@
   ],
   "Duncan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Duncan",
       "state": "Tennessee",
@@ -2256,7 +2324,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jeff",
       "last_name": "Duncan",
       "state": "South Carolina",
@@ -2268,7 +2336,7 @@
   ],
   "Stutzman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Marlin",
       "last_name": "Stutzman",
       "state": "Indiana",
@@ -2280,7 +2348,7 @@
   ],
   "Hartzler": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Vicky",
       "last_name": "Hartzler",
       "state": "Missouri",
@@ -2292,7 +2360,7 @@
   ],
   "Loudermilk": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Barry",
       "last_name": "Loudermilk",
       "state": "Georgia",
@@ -2304,7 +2372,7 @@
   ],
   "Hatch": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Orrin",
       "last_name": "Hatch",
       "state": "Utah",
@@ -2315,7 +2383,7 @@
   ],
   "Ross": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dennis",
       "last_name": "Ross",
       "state": "Florida",
@@ -2327,7 +2395,7 @@
   ],
   "Amodei": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mark",
       "last_name": "Amodei",
       "state": "Nevada",
@@ -2339,7 +2407,7 @@
   ],
   "Hurt": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Hurt",
       "state": "Virginia",
@@ -2351,7 +2419,7 @@
   ],
   "Aderholt": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Aderholt",
       "state": "Alabama",
@@ -2363,7 +2431,7 @@
   ],
   "Cook": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Paul",
       "last_name": "Cook",
       "state": "California",
@@ -2375,7 +2443,7 @@
   ],
   "Hurd": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Will",
       "last_name": "Hurd",
       "state": "Texas",
@@ -2387,7 +2455,7 @@
   ],
   "Rothfus": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Keith",
       "last_name": "Rothfus",
       "state": "Pennsylvania",
@@ -2399,7 +2467,7 @@
   ],
   "Castro": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joaquin",
       "last_name": "Castro",
       "state": "Texas",
@@ -2411,7 +2479,7 @@
   ],
   "Grijalva": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Raúl",
       "last_name": "Grijalva",
       "state": "Arizona",
@@ -2423,7 +2491,7 @@
   ],
   "Schatz": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Brian",
       "last_name": "Schatz",
       "state": "Hawaii",
@@ -2434,7 +2502,7 @@
   ],
   "Bucshon": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Larry",
       "last_name": "Bucshon",
       "state": "Indiana",
@@ -2446,7 +2514,7 @@
   ],
   "Stefanik": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Elise",
       "last_name": "Stefanik",
       "state": "New York",
@@ -2458,7 +2526,7 @@
   ],
   "Rokita": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Todd",
       "last_name": "Rokita",
       "state": "Indiana",
@@ -2470,7 +2538,7 @@
   ],
   "Hice": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jody",
       "last_name": "Hice",
       "state": "Georgia",
@@ -2482,7 +2550,7 @@
   ],
   "Mooney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Alex",
       "last_name": "Mooney",
       "state": "West Virginia",
@@ -2494,7 +2562,7 @@
   ],
   "McKinley": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "McKinley",
       "state": "West Virginia",
@@ -2506,7 +2574,7 @@
   ],
   "Calvert": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ken",
       "last_name": "Calvert",
       "state": "California",
@@ -2518,7 +2586,7 @@
   ],
   "Sanford": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Marshall",
       "last_name": "Sanford",
       "state": "South Carolina",
@@ -2530,7 +2598,7 @@
   ],
   "Cooper": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jim",
       "last_name": "Cooper",
       "state": "Tennessee",
@@ -2542,7 +2610,7 @@
   ],
   "Black": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Diane",
       "last_name": "Black",
       "state": "Tennessee",
@@ -2554,7 +2622,7 @@
   ],
   "Plaskett": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Stacey",
       "last_name": "Plaskett",
       "state": "US Virgin Islands",
@@ -2563,7 +2631,7 @@
   ],
   "Takano": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mark",
       "last_name": "Takano",
       "state": "California",
@@ -2575,7 +2643,7 @@
   ],
   "Cárdenas": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tony",
       "last_name": "Cárdenas",
       "state": "California",
@@ -2587,7 +2655,7 @@
   ],
   "Portman": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Robert",
       "last_name": "Portman",
       "state": "Ohio",
@@ -2598,7 +2666,7 @@
   ],
   "Menéndez": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Robert",
       "last_name": "Menéndez",
       "state": "New Jersey",
@@ -2609,7 +2677,7 @@
   ],
   "Byrne": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bradley",
       "last_name": "Byrne",
       "state": "Alabama",
@@ -2621,7 +2689,7 @@
   ],
   "Palmer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gary",
       "last_name": "Palmer",
       "state": "Alabama",
@@ -2633,7 +2701,7 @@
   ],
   "Posey": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Posey",
       "state": "Florida",
@@ -2645,7 +2713,7 @@
   ],
   "Cummings": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Elijah",
       "last_name": "Cummings",
       "state": "Maryland",
@@ -2657,7 +2725,7 @@
   ],
   "Farr": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sam",
       "last_name": "Farr",
       "state": "California",
@@ -2669,7 +2737,7 @@
   ],
   "Emmer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Emmer",
       "state": "Minnesota",
@@ -2681,7 +2749,7 @@
   ],
   "Pelosi": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Nancy",
       "last_name": "Pelosi",
       "state": "California",
@@ -2694,7 +2762,7 @@
   ],
   "Alexander": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Lamar",
       "last_name": "Alexander",
       "state": "Tennessee",
@@ -2705,7 +2773,7 @@
   ],
   "Levin": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sander",
       "last_name": "Levin",
       "state": "Michigan",
@@ -2717,7 +2785,7 @@
   ],
   "Katko": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Katko",
       "state": "New York",
@@ -2729,7 +2797,7 @@
   ],
   "Walberg": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tim",
       "last_name": "Walberg",
       "state": "Michigan",
@@ -2741,7 +2809,7 @@
   ],
   "Hastings": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Alcee",
       "last_name": "Hastings",
       "state": "Florida",
@@ -2753,7 +2821,7 @@
   ],
   "Carney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Carney",
       "state": "Delaware",
@@ -2765,7 +2833,7 @@
   ],
   "Manchin": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Joe",
       "last_name": "Manchin",
       "state": "West Virginia",
@@ -2776,7 +2844,7 @@
   ],
   "Love": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mia",
       "last_name": "Love",
       "state": "Utah",
@@ -2788,7 +2856,7 @@
   ],
   "Vargas": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Juan",
       "last_name": "Vargas",
       "state": "California",
@@ -2800,7 +2868,7 @@
   ],
   "Perlmutter": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ed",
       "last_name": "Perlmutter",
       "state": "Colorado",
@@ -2812,7 +2880,7 @@
   ],
   "DesJarlais": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Scott",
       "last_name": "DesJarlais",
       "state": "Tennessee",
@@ -2824,7 +2892,7 @@
   ],
   "Ellison": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Keith",
       "last_name": "Ellison",
       "state": "Minnesota",
@@ -2836,7 +2904,7 @@
   ],
   "Daines": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Steve",
       "last_name": "Daines",
       "state": "Montana",
@@ -2847,7 +2915,7 @@
   ],
   "Babin": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brian",
       "last_name": "Babin",
       "state": "Texas",
@@ -2859,7 +2927,7 @@
   ],
   "McDermott": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jim",
       "last_name": "McDermott",
       "state": "Washington",
@@ -2871,7 +2939,7 @@
   ],
   "Peterson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Collin",
       "last_name": "Peterson",
       "state": "Minnesota",
@@ -2883,7 +2951,7 @@
   ],
   "Amash": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Justin",
       "last_name": "Amash",
       "state": "Michigan",
@@ -2895,7 +2963,7 @@
   ],
   "Maloney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sean",
       "last_name": "Maloney",
       "state": "New York",
@@ -2905,7 +2973,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Carolyn",
       "last_name": "Maloney",
       "state": "New York",
@@ -2917,7 +2985,7 @@
   ],
   "Boustany": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Charles",
       "last_name": "Boustany",
       "state": "Louisiana",
@@ -2929,7 +2997,7 @@
   ],
   "Denham": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jeff",
       "last_name": "Denham",
       "state": "California",
@@ -2941,7 +3009,7 @@
   ],
   "Capps": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lois",
       "last_name": "Capps",
       "state": "California",
@@ -2953,7 +3021,7 @@
   ],
   "Moolenaar": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Moolenaar",
       "state": "Michigan",
@@ -2965,7 +3033,7 @@
   ],
   "Velázquez": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Nydia",
       "last_name": "Velázquez",
       "state": "New York",
@@ -2977,7 +3045,7 @@
   ],
   "Crawford": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Eric",
       "last_name": "Crawford",
       "state": "Arkansas",
@@ -2989,7 +3057,7 @@
   ],
   "Williams": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Roger",
       "last_name": "Williams",
       "state": "Texas",
@@ -3001,7 +3069,7 @@
   ],
   "Mulvaney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mick",
       "last_name": "Mulvaney",
       "state": "South Carolina",
@@ -3013,7 +3081,7 @@
   ],
   "Lance": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Leonard",
       "last_name": "Lance",
       "state": "New Jersey",
@@ -3025,7 +3093,7 @@
   ],
   "MacArthur": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "MacArthur",
       "state": "New Jersey",
@@ -3037,7 +3105,7 @@
   ],
   "Valadao": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Valadao",
       "state": "California",
@@ -3049,7 +3117,7 @@
   ],
   "Price": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Price",
       "state": "Georgia",
@@ -3059,7 +3127,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Price",
       "state": "North Carolina",
@@ -3071,7 +3139,7 @@
   ],
   "Murphy": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Patrick",
       "last_name": "Murphy",
       "state": "Florida",
@@ -3081,7 +3149,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tim",
       "last_name": "Murphy",
       "state": "Pennsylvania",
@@ -3091,7 +3159,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Christopher",
       "last_name": "Murphy",
       "state": "Connecticut",
@@ -3102,7 +3170,7 @@
   ],
   "Pallone": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Frank",
       "last_name": "Pallone",
       "state": "New Jersey",
@@ -3114,7 +3182,7 @@
   ],
   "Slaughter": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Louise",
       "last_name": "Slaughter",
       "state": "New York",
@@ -3126,7 +3194,7 @@
   ],
   "Cochran": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Thad",
       "last_name": "Cochran",
       "state": "Mississippi",
@@ -3137,7 +3205,7 @@
   ],
   "Murkowski": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Lisa",
       "last_name": "Murkowski",
       "state": "Alaska",
@@ -3148,7 +3216,7 @@
   ],
   "Jones": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Walter",
       "last_name": "Jones",
       "state": "North Carolina",
@@ -3160,7 +3228,7 @@
   ],
   "Knight": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Knight",
       "state": "California",
@@ -3172,7 +3240,7 @@
   ],
   "Inhofe": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "James",
       "last_name": "Inhofe",
       "state": "Oklahoma",
@@ -3183,7 +3251,7 @@
   ],
   "Inhofe": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jim",
       "last_name": "Inhofe",
       "state": "Oklahoma",
@@ -3194,7 +3262,7 @@
   ],  
   "Welch": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Peter",
       "last_name": "Welch",
       "state": "Vermont",
@@ -3206,7 +3274,7 @@
   ],
   "Ernst": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Joni",
       "last_name": "Ernst",
       "state": "Iowa",
@@ -3217,7 +3285,7 @@
   ],
   "Abraham": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ralph",
       "last_name": "Abraham",
       "state": "Louisiana",
@@ -3229,7 +3297,7 @@
   ],
   "Guinta": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Frank",
       "last_name": "Guinta",
       "state": "New Hampshire",
@@ -3241,7 +3309,7 @@
   ],
   "Lewis": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Lewis",
       "state": "Georgia",
@@ -3253,7 +3321,7 @@
   ],
   "Bordallo": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Madeleine",
       "last_name": "Bordallo",
       "state": "Guam",
@@ -3262,7 +3330,7 @@
   ],
   "Vela": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Filemon",
       "last_name": "Vela",
       "state": "Texas",
@@ -3274,7 +3342,7 @@
   ],
   "Lofgren": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Zoe",
       "last_name": "Lofgren",
       "state": "California",
@@ -3286,7 +3354,7 @@
   ],
   "Joyce": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Joyce",
       "state": "Ohio",
@@ -3298,7 +3366,7 @@
   ],
   "Poe": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ted",
       "last_name": "Poe",
       "state": "Texas",
@@ -3310,7 +3378,7 @@
   ],
   "Bishop": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Bishop",
       "state": "Michigan",
@@ -3320,7 +3388,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sanford",
       "last_name": "Bishop",
       "state": "Georgia",
@@ -3330,7 +3398,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rob",
       "last_name": "Bishop",
       "state": "Utah",
@@ -3342,7 +3410,7 @@
   ],
   "Langevin": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "James",
       "last_name": "Langevin",
       "state": "Rhode Island",
@@ -3354,7 +3422,7 @@
   ],
   "Roskam": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Peter",
       "last_name": "Roskam",
       "state": "Illinois",
@@ -3366,7 +3434,7 @@
   ],
   "Wyden": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Ron",
       "last_name": "Wyden",
       "state": "Oregon",
@@ -3377,7 +3445,7 @@
   ],
   "Hill": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "French",
       "last_name": "Hill",
       "state": "Arkansas",
@@ -3389,7 +3457,7 @@
   ],
   "Keating": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "William",
       "last_name": "Keating",
       "state": "Massachusetts",
@@ -3401,7 +3469,7 @@
   ],
   "Rouzer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Rouzer",
       "state": "North Carolina",
@@ -3413,7 +3481,7 @@
   ],
   "Feinstein": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Dianne",
       "last_name": "Feinstein",
       "state": "California",
@@ -3424,7 +3492,7 @@
   ],
   "Bass": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Karen",
       "last_name": "Bass",
       "state": "California",
@@ -3436,7 +3504,7 @@
   ],
   "Roybal-Allard": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lucille",
       "last_name": "Roybal-Allard",
       "state": "California",
@@ -3448,7 +3516,7 @@
   ],
   "Grothman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Glenn",
       "last_name": "Grothman",
       "state": "Wisconsin",
@@ -3460,7 +3528,7 @@
   ],
   "Flores": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Flores",
       "state": "Texas",
@@ -3472,7 +3540,7 @@
   ],
   "Bonamici": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Suzanne",
       "last_name": "Bonamici",
       "state": "Oregon",
@@ -3484,7 +3552,7 @@
   ],
   "Conaway": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "K.",
       "last_name": "Conaway",
       "state": "Texas",
@@ -3496,7 +3564,7 @@
   ],
   "Granger": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kay",
       "last_name": "Granger",
       "state": "Texas",
@@ -3508,7 +3576,7 @@
   ],
   "Gabbard": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tulsi",
       "last_name": "Gabbard",
       "state": "Hawaii",
@@ -3520,7 +3588,7 @@
   ],
   "Bera": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ami",
       "last_name": "Bera",
       "state": "California",
@@ -3532,7 +3600,7 @@
   ],
   "Kaine": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Timothy",
       "last_name": "Kaine",
       "state": "Virginia",
@@ -3543,7 +3611,7 @@
   ],
   "Kaine": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Tim",
       "last_name": "Kaine",
       "state": "Virginia",
@@ -3554,7 +3622,7 @@
   ],  
   "Duffy": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sean",
       "last_name": "Duffy",
       "state": "Wisconsin",
@@ -3566,7 +3634,7 @@
   ],
   "Issa": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Darrell",
       "last_name": "Issa",
       "state": "California",
@@ -3578,7 +3646,7 @@
   ],
   "Matsui": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Doris",
       "last_name": "Matsui",
       "state": "California",
@@ -3590,7 +3658,7 @@
   ],
   "Heck": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Denny",
       "last_name": "Heck",
       "state": "Washington",
@@ -3600,7 +3668,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joseph",
       "last_name": "Heck",
       "state": "Nevada",
@@ -3612,7 +3680,7 @@
   ],
   "Benishek": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dan",
       "last_name": "Benishek",
       "state": "Michigan",
@@ -3624,7 +3692,7 @@
   ],
   "Beutler": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jaime",
       "last_name": "Herrera Beutler",
       "state": "Washington",
@@ -3636,7 +3704,7 @@
   ],
   "Moore": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gwen",
       "last_name": "Moore",
       "state": "Wisconsin",
@@ -3648,7 +3716,7 @@
   ],
   "Sullivan": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Dan",
       "last_name": "Sullivan",
       "state": "Alaska",
@@ -3659,7 +3727,7 @@
   ],
   "Garamendi": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Garamendi",
       "state": "California",
@@ -3671,7 +3739,7 @@
   ],
   "Buchanan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Vern",
       "last_name": "Buchanan",
       "state": "Florida",
@@ -3683,7 +3751,7 @@
   ],
   "Gowdy": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Trey",
       "last_name": "Gowdy",
       "state": "South Carolina",
@@ -3695,7 +3763,7 @@
   ],
   "Pearce": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Stevan",
       "last_name": "Pearce",
       "state": "New Mexico",
@@ -3707,7 +3775,7 @@
   ],
   "Allen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rick",
       "last_name": "Allen",
       "state": "Georgia",
@@ -3719,7 +3787,7 @@
   ],
   "Chabot": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Chabot",
       "state": "Ohio",
@@ -3731,7 +3799,7 @@
   ],
   "Chu": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Judy",
       "last_name": "Chu",
       "state": "California",
@@ -3743,7 +3811,7 @@
   ],
   "Heller": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Dean",
       "last_name": "Heller",
       "state": "Nevada",
@@ -3754,7 +3822,7 @@
   ],
   "Graves": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Garret",
       "last_name": "Graves",
       "state": "Louisiana",
@@ -3764,7 +3832,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Graves",
       "state": "Georgia",
@@ -3774,7 +3842,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sam",
       "last_name": "Graves",
       "state": "Missouri",
@@ -3786,7 +3854,7 @@
   ],
   "Zinke": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ryan",
       "last_name": "Zinke",
       "state": "Montana",
@@ -3798,7 +3866,7 @@
   ],
   "Schumer": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Charles",
       "last_name": "Schumer",
       "state": "New York",
@@ -3809,7 +3877,7 @@
   ],
   "Foster": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Foster",
       "state": "Illinois",
@@ -3821,7 +3889,7 @@
   ],
   "Becerra": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Xavier",
       "last_name": "Becerra",
       "state": "California",
@@ -3833,7 +3901,7 @@
   ],
   "Gibbs": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bob",
       "last_name": "Gibbs",
       "state": "Ohio",
@@ -3845,7 +3913,7 @@
   ],
   "Jenkins": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Evan",
       "last_name": "Jenkins",
       "state": "West Virginia",
@@ -3855,7 +3923,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lynn",
       "last_name": "Jenkins",
       "state": "Kansas",
@@ -3867,7 +3935,7 @@
   ],
   "Ros-Lehtinen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ileana",
       "last_name": "Ros-Lehtinen",
       "state": "Florida",
@@ -3879,7 +3947,7 @@
   ],
   "Shaheen": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jeanne",
       "last_name": "Shaheen",
       "state": "New Hampshire",
@@ -3890,7 +3958,7 @@
   ],
   "Schrader": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kurt",
       "last_name": "Schrader",
       "state": "Oregon",
@@ -3902,7 +3970,7 @@
   ],
   "Himes": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "James",
       "last_name": "Himes",
       "state": "Connecticut",
@@ -3914,7 +3982,7 @@
   ],
   "Meeks": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gregory",
       "last_name": "Meeks",
       "state": "New York",
@@ -3926,7 +3994,7 @@
   ],
   "King": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Angus",
       "last_name": "King",
       "state": "Maine",
@@ -3935,7 +4003,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "King",
       "state": "Iowa",
@@ -3945,7 +4013,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Peter",
       "last_name": "King",
       "state": "New York",
@@ -3957,7 +4025,7 @@
   ],
   "Kind": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ron",
       "last_name": "Kind",
       "state": "Wisconsin",
@@ -3969,7 +4037,7 @@
   ],
   "Crenshaw": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ander",
       "last_name": "Crenshaw",
       "state": "Florida",
@@ -3981,7 +4049,7 @@
   ],
   "Johnson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sam",
       "last_name": "Johnson",
       "state": "Texas",
@@ -3991,7 +4059,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Ron",
       "last_name": "Johnson",
       "state": "Wisconsin",
@@ -4000,7 +4068,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Henry",
       "last_name": "Johnson",
       "state": "Georgia",
@@ -4010,7 +4078,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Eddie",
       "last_name": "Johnson",
       "state": "Texas",
@@ -4020,7 +4088,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Johnson",
       "state": "Ohio",
@@ -4032,7 +4100,7 @@
   ],
   "Blackburn": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Marsha",
       "last_name": "Blackburn",
       "state": "Tennessee",
@@ -4044,7 +4112,7 @@
   ],
   "Serrano": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "José",
       "last_name": "Serrano",
       "state": "New York",
@@ -4056,7 +4124,7 @@
   ],
   "Westmoreland": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lynn",
       "last_name": "Westmoreland",
       "state": "Georgia",
@@ -4068,7 +4136,7 @@
   ],
   "Costello": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ryan",
       "last_name": "Costello",
       "state": "Pennsylvania",
@@ -4080,7 +4148,7 @@
   ],
   "Scalise": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Scalise",
       "state": "Louisiana",
@@ -4092,7 +4160,7 @@
   ],
   "Bustos": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Cheri",
       "last_name": "Bustos",
       "state": "Illinois",
@@ -4104,7 +4172,7 @@
   ],
   "Pittenger": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Pittenger",
       "state": "North Carolina",
@@ -4116,7 +4184,7 @@
   ],
   "Westerman": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bruce",
       "last_name": "Westerman",
       "state": "Arkansas",
@@ -4128,7 +4196,7 @@
   ],
   "Paulsen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Erik",
       "last_name": "Paulsen",
       "state": "Minnesota",
@@ -4140,7 +4208,7 @@
   ],
   "Moulton": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Seth",
       "last_name": "Moulton",
       "state": "Massachusetts",
@@ -4152,7 +4220,7 @@
   ],
   "Cantwell": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Maria",
       "last_name": "Cantwell",
       "state": "Washington",
@@ -4163,7 +4231,7 @@
   ],
   "Graham": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Gwen",
       "last_name": "Graham",
       "state": "Florida",
@@ -4173,7 +4241,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Lindsey",
       "last_name": "Graham",
       "state": "South Carolina",
@@ -4184,7 +4252,7 @@
   ],
   "Cotton": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Tom",
       "last_name": "Cotton",
       "state": "Arkansas",
@@ -4195,7 +4263,7 @@
   ],
   "Napolitano": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Grace",
       "last_name": "Napolitano",
       "state": "California",
@@ -4207,7 +4275,7 @@
   ],
   "Corker": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Bob",
       "last_name": "Corker",
       "state": "Tennessee",
@@ -4218,7 +4286,7 @@
   ],
   "McHenry": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Patrick",
       "last_name": "McHenry",
       "state": "North Carolina",
@@ -4230,7 +4298,7 @@
   ],
   "Meadows": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mark",
       "last_name": "Meadows",
       "state": "North Carolina",
@@ -4242,7 +4310,7 @@
   ],
   "Brownley": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Julia",
       "last_name": "Brownley",
       "state": "California",
@@ -4254,7 +4322,7 @@
   ],
   "Waters": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Maxine",
       "last_name": "Waters",
       "state": "California",
@@ -4266,7 +4334,7 @@
   ],
   "Womack": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Womack",
       "state": "Arkansas",
@@ -4278,7 +4346,7 @@
   ],
   "Ribble": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Reid",
       "last_name": "Ribble",
       "state": "Wisconsin",
@@ -4290,7 +4358,7 @@
   ],
   "Ratcliffe": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Ratcliffe",
       "state": "Texas",
@@ -4302,7 +4370,7 @@
   ],
   "Lynch": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Stephen",
       "last_name": "Lynch",
       "state": "Massachusetts",
@@ -4314,7 +4382,7 @@
   ],
   "Lowenthal": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Alan",
       "last_name": "Lowenthal",
       "state": "California",
@@ -4326,7 +4394,7 @@
   ],
   "Neugebauer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Randy",
       "last_name": "Neugebauer",
       "state": "Texas",
@@ -4338,7 +4406,7 @@
   ],
   "Adams": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Alma",
       "last_name": "Adams",
       "state": "North Carolina",
@@ -4350,7 +4418,7 @@
   ],
   "Dingell": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Debbie",
       "last_name": "Dingell",
       "state": "Michigan",
@@ -4362,7 +4430,7 @@
   ],
   "Dent": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Charles",
       "last_name": "Dent",
       "state": "Pennsylvania",
@@ -4374,7 +4442,7 @@
   ],
   "Donovan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Daniel",
       "last_name": "Donovan",
       "state": "New York",
@@ -4386,7 +4454,7 @@
   ],
   "Donovan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dan",
       "last_name": "Donovan",
       "state": "New York",
@@ -4398,7 +4466,7 @@
   ],  
   "Fortenberry": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jeff",
       "last_name": "Fortenberry",
       "state": "Nebraska",
@@ -4410,7 +4478,7 @@
   ],
   "Durbin": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Richard",
       "last_name": "Durbin",
       "state": "Illinois",
@@ -4421,7 +4489,7 @@
   ],
   "Labrador": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Raúl",
       "last_name": "Labrador",
       "state": "Idaho",
@@ -4433,7 +4501,7 @@
   ],
   "Sarbanes": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Sarbanes",
       "state": "Maryland",
@@ -4445,7 +4513,7 @@
   ],
   "Lee": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Sheila",
       "last_name": "Jackson Lee",
       "state": "Texas",
@@ -4457,7 +4525,7 @@
   ],
   "Cornyn": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Cornyn",
       "state": "Texas",
@@ -4468,7 +4536,7 @@
   ],
   "Markey": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Ed",
       "last_name": "Markey",
       "state": "Massachusetts",
@@ -4479,7 +4547,7 @@
   ],
   "Heitkamp": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Heidi",
       "last_name": "Heitkamp",
       "state": "North Dakota",
@@ -4490,7 +4558,7 @@
   ],
   "Cole": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Cole",
       "state": "Oklahoma",
@@ -4502,7 +4570,7 @@
   ],
   "Barrasso": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Barrasso",
       "state": "Wyoming",
@@ -4513,7 +4581,7 @@
   ],
   "Walters": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mimi",
       "last_name": "Walters",
       "state": "California",
@@ -4525,7 +4593,7 @@
   ],
   "Chaffetz": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jason",
       "last_name": "Chaffetz",
       "state": "Utah",
@@ -4537,7 +4605,7 @@
   ],
   "Marchant": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kenny",
       "last_name": "Marchant",
       "state": "Texas",
@@ -4549,7 +4617,7 @@
   ],
   "McGovern": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "James",
       "last_name": "McGovern",
       "state": "Massachusetts",
@@ -4561,7 +4629,7 @@
   ],
   "Beyer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Donald",
       "last_name": "Beyer",
       "state": "Virginia",
@@ -4573,7 +4641,7 @@
   ],
   "Edwards": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Donna",
       "last_name": "Edwards",
       "state": "Maryland",
@@ -4585,7 +4653,7 @@
   ],
   "Clyburn": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "James",
       "last_name": "Clyburn",
       "state": "South Carolina",
@@ -4597,7 +4665,7 @@
   ],
   "Peters": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Scott",
       "last_name": "Peters",
       "state": "California",
@@ -4607,7 +4675,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Gary",
       "last_name": "Peters",
       "state": "Michigan",
@@ -4618,7 +4686,7 @@
   ],
   "Rubio": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Marco",
       "last_name": "Rubio",
       "state": "Florida",
@@ -4629,7 +4697,7 @@
   ],
   "Ashford": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brad",
       "last_name": "Ashford",
       "state": "Nebraska",
@@ -4641,7 +4709,7 @@
   ],
   "Courtney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joe",
       "last_name": "Courtney",
       "state": "Connecticut",
@@ -4653,7 +4721,7 @@
   ],
   "Meng": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Grace",
       "last_name": "Meng",
       "state": "New York",
@@ -4665,7 +4733,7 @@
   ],
   "Fudge": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Marcia",
       "last_name": "Fudge",
       "state": "Ohio",
@@ -4677,7 +4745,7 @@
   ],
   "Ruiz": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Raul",
       "last_name": "Ruiz",
       "state": "California",
@@ -4689,7 +4757,7 @@
   ],
   "Tonko": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Paul",
       "last_name": "Tonko",
       "state": "New York",
@@ -4701,7 +4769,7 @@
   ],
   "Cramer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kevin",
       "last_name": "Cramer",
       "state": "North Dakota",
@@ -4713,7 +4781,7 @@
   ],
   "Doggett": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lloyd",
       "last_name": "Doggett",
       "state": "Texas",
@@ -4725,7 +4793,7 @@
   ],
   "McCaskill": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Claire",
       "last_name": "McCaskill",
       "state": "Missouri",
@@ -4736,7 +4804,7 @@
   ],
   "Latta": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Latta",
       "state": "Ohio",
@@ -4748,7 +4816,7 @@
   ],
   "Hunter": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Duncan",
       "last_name": "Hunter",
       "state": "California",
@@ -4760,7 +4828,7 @@
   ],
   "DeSaulnier": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mark",
       "last_name": "DeSaulnier",
       "state": "California",
@@ -4772,7 +4840,7 @@
   ],
   "Nugent": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Richard",
       "last_name": "Nugent",
       "state": "Florida",
@@ -4784,7 +4852,7 @@
   ],
   "Tipton": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Scott",
       "last_name": "Tipton",
       "state": "Colorado",
@@ -4796,7 +4864,7 @@
   ],
   "Schakowsky": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Janice",
       "last_name": "Schakowsky",
       "state": "Illinois",
@@ -4808,7 +4876,7 @@
   ],
   "McCain": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "McCain",
       "state": "Arizona",
@@ -4819,7 +4887,7 @@
   ],
   "Reid": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Harry",
       "last_name": "Reid",
       "state": "Nevada",
@@ -4832,7 +4900,7 @@
   ],
   "Thornberry": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mac",
       "last_name": "Thornberry",
       "state": "Texas",
@@ -4844,7 +4912,7 @@
   ],
   "Rohrabacher": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Dana",
       "last_name": "Rohrabacher",
       "state": "California",
@@ -4856,7 +4924,7 @@
   ],
   "LaMalfa": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Doug",
       "last_name": "LaMalfa",
       "state": "California",
@@ -4868,7 +4936,7 @@
   ],
   "DeLauro": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rosa",
       "last_name": "DeLauro",
       "state": "Connecticut",
@@ -4880,7 +4948,7 @@
   ],
   "Carter": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Buddy",
       "last_name": "Carter",
       "state": "Georgia",
@@ -4890,7 +4958,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Carter",
       "state": "Texas",
@@ -4902,7 +4970,7 @@
   ],
   "Hultgren": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Randy",
       "last_name": "Hultgren",
       "state": "Illinois",
@@ -4914,7 +4982,7 @@
   ],
   "Miller": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jeff",
       "last_name": "Miller",
       "state": "Florida",
@@ -4924,7 +4992,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Candice",
       "last_name": "Miller",
       "state": "Michigan",
@@ -4936,7 +5004,7 @@
   ],
   "Tester": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jon",
       "last_name": "Tester",
       "state": "Montana",
@@ -4947,7 +5015,7 @@
   ],
   "Shimkus": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Shimkus",
       "state": "Illinois",
@@ -4959,7 +5027,7 @@
   ],
   "McConnell": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Mitch",
       "last_name": "McConnell",
       "state": "Kentucky",
@@ -4972,7 +5040,7 @@
   ],
   "Moran": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jerry",
       "last_name": "Moran",
       "state": "Kansas",
@@ -4983,7 +5051,7 @@
   ],
   "Hirono": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Mazie",
       "last_name": "Hirono",
       "state": "Hawaii",
@@ -4994,7 +5062,7 @@
   ],
   "Lamborn": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Doug",
       "last_name": "Lamborn",
       "state": "Colorado",
@@ -5006,7 +5074,7 @@
   ],
   "Isakson": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Isakson",
       "state": "Georgia",
@@ -5017,7 +5085,7 @@
   ],
   "Renacci": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "James",
       "last_name": "Renacci",
       "state": "Ohio",
@@ -5029,7 +5097,7 @@
   ],
   "Russell": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Russell",
       "state": "Oklahoma",
@@ -5041,7 +5109,7 @@
   ],
   "Conyers": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Conyers",
       "state": "Michigan",
@@ -5053,7 +5121,7 @@
   ],
   "Frelinghuysen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rodney",
       "last_name": "Frelinghuysen",
       "state": "New Jersey",
@@ -5065,7 +5133,7 @@
   ],
   "DelBene": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Suzan",
       "last_name": "DelBene",
       "state": "Washington",
@@ -5077,7 +5145,7 @@
   ],
   "Ellmers": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Renee",
       "last_name": "Ellmers",
       "state": "North Carolina",
@@ -5089,7 +5157,7 @@
   ],
   "Torres": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Norma",
       "last_name": "Torres",
       "state": "California",
@@ -5101,7 +5169,7 @@
   ],
   "Bost": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Bost",
       "state": "Illinois",
@@ -5113,7 +5181,7 @@
   ],
   "Marino": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tom",
       "last_name": "Marino",
       "state": "Pennsylvania",
@@ -5125,7 +5193,7 @@
   ],
   "DeGette": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Diana",
       "last_name": "DeGette",
       "state": "Colorado",
@@ -5137,7 +5205,7 @@
   ],
   "Comstock": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Barbara",
       "last_name": "Comstock",
       "state": "Virginia",
@@ -5149,7 +5217,7 @@
   ],
   "Roberts": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Pat",
       "last_name": "Roberts",
       "state": "Kansas",
@@ -5160,7 +5228,7 @@
   ],
   "Goodlatte": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bob",
       "last_name": "Goodlatte",
       "state": "Virginia",
@@ -5172,7 +5240,7 @@
   ],
   "Booker": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Cory",
       "last_name": "Booker",
       "state": "New Jersey",
@@ -5183,7 +5251,7 @@
   ],
   "Nelson": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Bill",
       "last_name": "Nelson",
       "state": "Florida",
@@ -5194,7 +5262,7 @@
   ],
   "Stivers": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Stivers",
       "state": "Ohio",
@@ -5206,7 +5274,7 @@
   ],
   "Cohen": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steve",
       "last_name": "Cohen",
       "state": "Tennessee",
@@ -5218,7 +5286,7 @@
   ],
   "Cartwright": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Matthew",
       "last_name": "Cartwright",
       "state": "Pennsylvania",
@@ -5230,7 +5298,7 @@
   ],
   "Grisham": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michelle",
       "last_name": "Lujan Grisham",
       "state": "New Mexico",
@@ -5242,7 +5310,7 @@
   ],
   "Rounds": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Mike",
       "last_name": "Rounds",
       "state": "South Dakota",
@@ -5253,7 +5321,7 @@
   ],
   "Warren": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Elizabeth",
       "last_name": "Warren",
       "state": "Massachusetts",
@@ -5264,7 +5332,7 @@
   ],
   "Perry": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Scott",
       "last_name": "Perry",
       "state": "Pennsylvania",
@@ -5276,7 +5344,7 @@
   ],
   "Schiff": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Adam",
       "last_name": "Schiff",
       "state": "California",
@@ -5288,7 +5356,7 @@
   ],
   "Garrett": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Scott",
       "last_name": "Garrett",
       "state": "New Jersey",
@@ -5300,7 +5368,7 @@
   ],
   "Jolly": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Jolly",
       "state": "Florida",
@@ -5312,7 +5380,7 @@
   ],
   "Engel": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Eliot",
       "last_name": "Engel",
       "state": "New York",
@@ -5324,7 +5392,7 @@
   ],
   "Kinzinger": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Adam",
       "last_name": "Kinzinger",
       "state": "Illinois",
@@ -5336,7 +5404,7 @@
   ],
   "Gosar": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Paul",
       "last_name": "Gosar",
       "state": "Arizona",
@@ -5348,7 +5416,7 @@
   ],
   "Coats": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Daniel",
       "last_name": "Coats",
       "state": "Indiana",
@@ -5359,7 +5427,7 @@
   ],
   "Coats": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Dan",
       "last_name": "Coats",
       "state": "Indiana",
@@ -5370,7 +5438,7 @@
   ],  
   "Delaney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Delaney",
       "state": "Maryland",
@@ -5382,7 +5450,7 @@
   ],
   "Norton": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Eleanor",
       "last_name": "Norton",
       "state": "District of Columbia",
@@ -5391,7 +5459,7 @@
   ],
   "Udall": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Tom",
       "last_name": "Udall",
       "state": "New Mexico",
@@ -5402,7 +5470,7 @@
   ],
   "Lee": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Mike",
       "last_name": "Lee",
       "state": "Utah",
@@ -5411,7 +5479,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Barbara",
       "last_name": "Lee",
       "state": "California",
@@ -5423,7 +5491,7 @@
   ],
   "Pompeo": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mike",
       "last_name": "Pompeo",
       "state": "Kansas",
@@ -5435,7 +5503,7 @@
   ],
   "Blumenauer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Earl",
       "last_name": "Blumenauer",
       "state": "Oregon",
@@ -5447,7 +5515,7 @@
   ],
   "Davidson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Warren",
       "last_name": "Davidson",
       "state": "Ohio",
@@ -5459,7 +5527,7 @@
   ],
   "Capuano": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Capuano",
       "state": "Massachusetts",
@@ -5471,7 +5539,7 @@
   ],
   "Royce": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Edward",
       "last_name": "Royce",
       "state": "California",
@@ -5483,7 +5551,7 @@
   ],
   "Donnelly": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Joe",
       "last_name": "Donnelly",
       "state": "Indiana",
@@ -5494,7 +5562,7 @@
   ],
   "Brady": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Brady",
       "state": "Pennsylvania",
@@ -5504,7 +5572,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Kevin",
       "last_name": "Brady",
       "state": "Texas",
@@ -5516,7 +5584,7 @@
   ],
   "Aguilar": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Pete",
       "last_name": "Aguilar",
       "state": "California",
@@ -5528,7 +5596,7 @@
   ],
   "Lankford": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "James",
       "last_name": "Lankford",
       "state": "Oklahoma",
@@ -5539,7 +5607,7 @@
   ],
   "Neal": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Richard",
       "last_name": "Neal",
       "state": "Massachusetts",
@@ -5551,7 +5619,7 @@
   ],
   "Gallego": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ruben",
       "last_name": "Gallego",
       "state": "Arizona",
@@ -5563,7 +5631,7 @@
   ],
   "Yarmuth": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Yarmuth",
       "state": "Kentucky",
@@ -5575,7 +5643,7 @@
   ],
   "Davis": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rodney",
       "last_name": "Davis",
       "state": "Illinois",
@@ -5585,7 +5653,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Susan",
       "last_name": "Davis",
       "state": "California",
@@ -5595,7 +5663,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Danny",
       "last_name": "Davis",
       "state": "Illinois",
@@ -5607,7 +5675,7 @@
   ],
   "McCaul": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "McCaul",
       "state": "Texas",
@@ -5619,7 +5687,7 @@
   ],
   "Kirkpatrick": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ann",
       "last_name": "Kirkpatrick",
       "state": "Arizona",
@@ -5631,7 +5699,7 @@
   ],
   "Sanchez": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Loretta",
       "last_name": "Sanchez",
       "state": "California",
@@ -5643,7 +5711,7 @@
   ],
   "Barr": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Garland",
       "last_name": "Barr",
       "state": "Kentucky",
@@ -5655,7 +5723,7 @@
   ],
   "Roe": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Roe",
       "state": "Tennessee",
@@ -5667,7 +5735,7 @@
   ],
   "Huizenga": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Bill",
       "last_name": "Huizenga",
       "state": "Michigan",
@@ -5679,7 +5747,7 @@
   ],
   "Esty": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Elizabeth",
       "last_name": "Esty",
       "state": "Connecticut",
@@ -5691,7 +5759,7 @@
   ],
   "Nunes": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Devin",
       "last_name": "Nunes",
       "state": "California",
@@ -5703,7 +5771,7 @@
   ],
   "Rooney": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Thomas",
       "last_name": "Rooney",
       "state": "Florida",
@@ -5715,7 +5783,7 @@
   ],
   "Salmon": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Matt",
       "last_name": "Salmon",
       "state": "Arizona",
@@ -5727,7 +5795,7 @@
   ],
   "Young": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Young",
       "state": "Iowa",
@@ -5737,7 +5805,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Todd",
       "last_name": "Young",
       "state": "Indiana",
@@ -5747,7 +5815,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Don",
       "last_name": "Young",
       "state": "Alaska",
@@ -5759,7 +5827,7 @@
   ],
   "Diaz-Balart": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mario",
       "last_name": "Diaz-Balart",
       "state": "Florida",
@@ -5771,7 +5839,7 @@
   ],
   "Foxx": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Virginia",
       "last_name": "Foxx",
       "state": "North Carolina",
@@ -5783,7 +5851,7 @@
   ],
   "Speier": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jackie",
       "last_name": "Speier",
       "state": "California",
@@ -5795,7 +5863,7 @@
   ],
   "Cuellar": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Henry",
       "last_name": "Cuellar",
       "state": "Texas",
@@ -5807,7 +5875,7 @@
   ],
   "Hoyer": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Steny",
       "last_name": "Hoyer",
       "state": "Maryland",
@@ -5819,7 +5887,7 @@
   ],
   "Lawrence": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brenda",
       "last_name": "Lawrence",
       "state": "Michigan",
@@ -5831,7 +5899,7 @@
   ],
   "Woodall": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Rob",
       "last_name": "Woodall",
       "state": "Georgia",
@@ -5843,7 +5911,7 @@
   ],
   "Wenstrup": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Brad",
       "last_name": "Wenstrup",
       "state": "Ohio",
@@ -5855,7 +5923,7 @@
   ],
   "Boxer": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Barbara",
       "last_name": "Boxer",
       "state": "California",
@@ -5866,7 +5934,7 @@
   ],
   "Kuster": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Ann",
       "last_name": "Kuster",
       "state": "New Hampshire",
@@ -5878,7 +5946,7 @@
   ],
   "Mikulski": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Barbara",
       "last_name": "Mikulski",
       "state": "Maryland",
@@ -5889,7 +5957,7 @@
   ],
   "Schweikert": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Schweikert",
       "state": "Arizona",
@@ -5901,7 +5969,7 @@
   ],
   "Duckworth": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Tammy",
       "last_name": "Duckworth",
       "state": "Illinois",
@@ -5913,7 +5981,7 @@
   ],
   "Cassidy": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Bill",
       "last_name": "Cassidy",
       "state": "Louisiana",
@@ -5924,7 +5992,7 @@
   ],
   "Walker": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Mark",
       "last_name": "Walker",
       "state": "North Carolina",
@@ -5936,7 +6004,7 @@
   ],
   "Massie": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Thomas",
       "last_name": "Massie",
       "state": "Kentucky",
@@ -5948,7 +6016,7 @@
   ],
   "Murray": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Patty",
       "last_name": "Murray",
       "state": "Washington",
@@ -5959,7 +6027,7 @@
   ],
   "Franks": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Trent",
       "last_name": "Franks",
       "state": "Arizona",
@@ -5971,7 +6039,7 @@
   ],
   "Walz": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Timothy",
       "last_name": "Walz",
       "state": "Minnesota",
@@ -5983,7 +6051,7 @@
   ],
   "Thune": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "John",
       "last_name": "Thune",
       "state": "South Dakota",
@@ -5994,7 +6062,7 @@
   ],
   "Tiberi": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Patrick",
       "last_name": "Tiberi",
       "state": "Ohio",
@@ -6006,7 +6074,7 @@
   ],
   "Schultz": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Debbie",
       "last_name": "Wasserman Schultz",
       "state": "Florida",
@@ -6018,7 +6086,7 @@
   ],
   "Wicker": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Roger",
       "last_name": "Wicker",
       "state": "Mississippi",
@@ -6029,7 +6097,7 @@
   ],
   "Hudson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Richard",
       "last_name": "Hudson",
       "state": "North Carolina",
@@ -6041,7 +6109,7 @@
   ],
   "Carson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "André",
       "last_name": "Carson",
       "state": "Indiana",
@@ -6053,7 +6121,7 @@
   ],
   "Blunt": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Roy",
       "last_name": "Blunt",
       "state": "Missouri",
@@ -6064,7 +6132,7 @@
   ],
   "Gohmert": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Louie",
       "last_name": "Gohmert",
       "state": "Texas",
@@ -6076,7 +6144,7 @@
   ],
   "Sessions": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Pete",
       "last_name": "Sessions",
       "state": "Texas",
@@ -6086,7 +6154,7 @@
       ]
     },
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Jeff",
       "last_name": "Sessions",
       "state": "Alabama",
@@ -6097,7 +6165,7 @@
   ],
   "Kennedy": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Joseph",
       "last_name": "Kennedy",
       "state": "Massachusetts",
@@ -6109,7 +6177,7 @@
   ],
   "Reichert": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Reichert",
       "state": "Washington",
@@ -6121,7 +6189,7 @@
   ],
   "Nolan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Richard",
       "last_name": "Nolan",
       "state": "Minnesota",
@@ -6133,7 +6201,7 @@
   ],
   "Cleaver": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Emanuel",
       "last_name": "Cleaver",
       "state": "Missouri",
@@ -6145,7 +6213,7 @@
   ],
   "Heinrich": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Martin",
       "last_name": "Heinrich",
       "state": "New Mexico",
@@ -6156,7 +6224,7 @@
   ],
   "Tsongas": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Niki",
       "last_name": "Tsongas",
       "state": "Massachusetts",
@@ -6168,7 +6236,7 @@
   ],
   "Costa": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Jim",
       "last_name": "Costa",
       "state": "California",
@@ -6180,7 +6248,7 @@
   ],
   "Hanna": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Richard",
       "last_name": "Hanna",
       "state": "New York",
@@ -6192,7 +6260,7 @@
   ],
   "Fincher": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Stephen",
       "last_name": "Fincher",
       "state": "Tennessee",
@@ -6204,7 +6272,7 @@
   ],
   "Hahn": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Janice",
       "last_name": "Hahn",
       "state": "California",
@@ -6216,7 +6284,7 @@
   ],
   "Meehan": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Patrick",
       "last_name": "Meehan",
       "state": "Pennsylvania",
@@ -6228,7 +6296,7 @@
   ],
   "Leahy": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Patrick",
       "last_name": "Leahy",
       "state": "Vermont",
@@ -6239,7 +6307,7 @@
   ],
   "Simpson": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Simpson",
       "state": "Idaho",
@@ -6251,7 +6319,7 @@
   ],
   "Stewart": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Chris",
       "last_name": "Stewart",
       "state": "Utah",
@@ -6263,7 +6331,7 @@
   ],
   "Zeldin": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Lee",
       "last_name": "Zeldin",
       "state": "New York",
@@ -6275,7 +6343,7 @@
   ],
   "Fleming": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "John",
       "last_name": "Fleming",
       "state": "Louisiana",
@@ -6287,7 +6355,7 @@
   ],
   "Scott": [
     {
-      "chamber": "senate",
+      "institution": "senate",
       "first_name": "Tim",
       "last_name": "Scott",
       "state": "South Carolina",
@@ -6296,7 +6364,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Robert",
       "last_name": "Scott",
       "state": "Virginia",
@@ -6306,7 +6374,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "David",
       "last_name": "Scott",
       "state": "Georgia",
@@ -6316,7 +6384,7 @@
       ]
     },
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Austin",
       "last_name": "Scott",
       "state": "Georgia",
@@ -6328,7 +6396,7 @@
   ],
   "Turner": [
     {
-      "chamber": "house",
+      "institution": "house",
       "first_name": "Michael",
       "last_name": "Turner",
       "state": "Ohio",

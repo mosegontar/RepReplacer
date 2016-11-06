@@ -20,7 +20,8 @@ function getMembers(lastname) {
             names[members[j]['first_name']] = [
                 members[j]['last_name'],
                 members[j]['state'],
-                members[j]['title']
+                members[j]['title'],
+                members[j]['institution']
             ];
         };
     };
@@ -38,21 +39,21 @@ function parseResult(data) {
                     bodyText[i], // lastname
                     bodyText[i-1], // firstname,
                     names[bodyText[i-1]][1], // state,
-                    names[bodyText[i-1]][2] // title
+                    names[bodyText[i-1]][2], // title
+                    names[bodyText[i-1]][3]
                 ]);
             } else if (names[bodyText[i-2]] !== undefined) {
                 foundNames.push([
                     bodyText[i], // lastname
                     bodyText[i-2], // firstname,
                     names[bodyText[i-2]][1], // state,
-                    names[bodyText[i-2]][2] // title
+                    names[bodyText[i-2]][2], // title
+                    names[bodyText[i-2]][3] // intitution
                 ]);
-            }
-
+            } 
         }
     }
     if (foundNames.length > 1) {
-        console.log(foundNames);
         walk(document.body);
     }
     
@@ -88,19 +89,32 @@ function replaceText(textNode) {
 
 
     function replaceInstance(rule) {
-        var re = RegExp(rule[0], "g")
+        if (rule === undefined) {return};
+        var re = RegExp(rule[0], "g");
         textNode.nodeValue = textNode.nodeValue.replace(re, rule[1]);
     }
 
-    textNode.nodeValue = textNode.nodeValue.replace(/Sen\./g, 'Senator');
-    textNode.nodeValue = textNode.nodeValue.replace(/U\.S\. Senator/g, 'Senator');
-    textNode.nodeValue = textNode.nodeValue.replace(/Republican Senator/g, 'Senator');
-    textNode.nodeValue = textNode.nodeValue.replace(/Democratic Senator/g, 'Senator');        
-    textNode.nodeValue = textNode.nodeValue.replace(/Rep\./g, 'Representative');
-    textNode.nodeValue = textNode.nodeValue.replace(/\(D-.+\)/g, '');
-    textNode.nodeValue = textNode.nodeValue.replace(/\(R-.+\)/g, '');
-    textNode.nodeValue = textNode.nodeValue.replace(/\(D\)/g, '');
-    textNode.nodeValue = textNode.nodeValue.replace(/\(R\)/g, '');
+    var initialRules = [
+        [/Sen\./, 'Senator'],
+        [/U\.S\. Senator/, 'Senator'],
+        [/Republican Senator/, 'Senator'],
+        [/Democratic Senator/, 'Senator'],
+        [/Rep\./, 'Representative'],
+        [/\(D-.+\)/, ''],
+        [/\(R-.+\)/, ''],
+        [/\(D\)/, ''],
+        [/\(R\)/, ''],
+        [/Democrats/, 'members of one of the two major political parties'],
+        [/Dems/, 'members of one of the two major political parties'],
+        [/Republicans/, 'members of one of the two major political parties'],
+        [/GOP/, 'members of one of the two major political parties'],
+        [/Mrs\./, 'Misses'],
+        [/Mr\./, 'Mister']
+    ];
+
+    for (var ir = 0; ir < initialRules.length; ir++) {
+        replaceInstance(initialRules[ir]);
+    };
 
     for (var i = 0; i < foundNames.length; i++) {
 
@@ -108,23 +122,80 @@ function replaceText(textNode) {
         var firstname = foundNames[i][1];
         var state = foundNames[i][2];
         var titles = foundNames[i][3];
+        var institution = foundNames[i][4];
 
         function getRules(title) {
-            var replacement = 'a '+title.toLowerCase()+ ' from ' +state
-            var rules = [
-                [state+' '+title+' '+firstname+' '+lastname, replacement],
-                ['Incumbent '+title+' '+firstname+' '+lastname, replacement],
-                [title+' '+firstname+' '+lastname, replacement],
-                ['Republican '+firstname+' '+lastname, replacement],
-                ['Democrat '+firstname+' '+lastname, replacement],
-                ['Republican '+title+' '+firstname+' '+lastname, replacement],
-                ['Democratic '+title+' '+firstname+' '+lastname, replacement],                
-                [firstname+' '+lastname, replacement],
+
+            var congressReplacement = 'a '+title.toLowerCase()+ ' from ' +state;
+            var presCandReplacement = 'one of the presidential candidates';
+            var presidentReplacement = 'the President of the United States';
+            var vpReplacement = 'the Vice President of the United States';
+
+            
+            var congressRules = [
+                [state+' '+title+' '+firstname+' '+lastname, congressReplacement],
+                ['Incumbent '+title+' '+firstname+' '+lastname, congressReplacement],
+                [title+' '+firstname+' '+lastname, congressReplacement],
+                ['Republican '+firstname+' '+lastname, congressReplacement],
+                ['Democrat '+firstname+' '+lastname, congressReplacement],
+                ['Republican '+title+' '+firstname+' '+lastname, congressReplacement],
+                ['Democratic '+title+' '+firstname+' '+lastname, congressReplacement],                
+                [firstname+' '+lastname, congressReplacement],
                 [lastname, 'the '+state+' '+title.toLowerCase()],
-            ] 
+            ];
+
+            var presCandRules = [
+                ['The '+lastname, "The candidate's"],
+                ['Democratic candidate '+firstname+' '+lastname, presCandReplacement],
+                ['Republican candidate '+firstname+' '+lastname, presCandReplacement],                                        
+                ['Democratic presidential candidate '+firstname+' '+lastname, presCandReplacement],
+                ['Republican presidential candidate '+firstname+' '+lastname, presCandReplacement]                
+                [title+' '+lastname, presCandReplacement],
+                [title+' '+firstname+' '+lastname, presCandReplacement],
+                [firstname+' '+lastname, presCandReplacement],
+                [lastname, presCandReplacement],
+                [title+' '+presCandReplacement, presCandReplacement],
+                ['The '+presCandReplacement] // Fix any uncaught,
+            ];
+
+            var presidentRules = [
+                [firstname+' '+lastname, presidentReplacement],            
+                [title+' '+lastname, presidentReplacement],
+                [title+' '+firstname+' '+lastname, presidentReplacement],
+                [lastname, presidentReplacement],
+                [title+' '+presidentReplacement, presidentReplacement]
+            ];
+
+            var vpRules = [
+                [firstname+' '+lastname, vpReplacement],            
+                [title+' '+lastname, vpReplacement],
+                [title+' '+firstname+' '+lastname, vpReplacement],
+                [lastname, vpReplacement],
+                [title+' '+vpReplacement, vpReplacement]
+            ]; 
+
+            switch (institution) {
+                case 'presidential candidate':
+
+                case 'president':
+                case 'vice president':
+                case 'house':
+                case 'senate':
+            }           
+
+            if (institution === 'presidential candidate') {
+                rules = presCandRules;
+            } else if (institution === 'president') {
+                rules = presidentRules;
+            } else if (institution === 'vice president') {
+                rules = vpRules;
+            } else {
+                rules = congressRules;
+            };
+
             return rules;           
         }
-
+        if (titles === undefined) {return};
         for (var t = 0; t < titles.length; t++) {
             var rules = getRules(titles[t]);
             for (var r = 0; r < rules.length; r ++) {
@@ -133,6 +204,17 @@ function replaceText(textNode) {
         }
     }
 
-    textNode.nodeValue = textNode.nodeValue.replace(/^\S/g, function(x){return x.toUpperCase();});
+    var endRules = [
+        [/Democrats/, 'one of the major US political parties'],
+        [/Democratic/, 'one of the major US political parties']
+        [/Republicans/, 'one of the major US political parties'],
+        [/Republican/, 'one of the major US political parties'],          
+        [/^\S/, function(x){return x.toUpperCase();}],
+        [/Misses/, 'Mrs\.'],
+        [/Mister/, 'Mr\.']
+    ]
 
+    for (var er = 0; er < endRules.length; er++) {
+        replaceInstance(endRules[er]);
+    }; 
 }
