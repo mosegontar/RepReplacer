@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
 
-    "name": "blindrep",
+    "name": "RepReplacer",
     "version": "1.0",
 
     "content_scripts": [
